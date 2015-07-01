@@ -1,0 +1,5 @@
+name-last: Sprinkle 
+name-first: Ross
+ 
+birth-date: 1883-08-22
+birth-place: US, OH, Symmes Township

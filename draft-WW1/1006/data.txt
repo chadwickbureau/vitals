@@ -1,0 +1,5 @@
+name-last:  Edmunds
+name-first:  Merle
+ 
+birth-date: 1891-05-17
+birth-place: US, TX, Gonzales County

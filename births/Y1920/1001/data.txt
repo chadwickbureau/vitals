@@ -1,0 +1,7 @@
+name-last:  Sterling
+name-first:  Kent
+name-given: Kent Warren
+ 
+birth-date: 1920-08-25
+birth-place: US, IL, Chicago
+ 

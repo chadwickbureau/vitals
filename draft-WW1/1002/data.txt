@@ -1,0 +1,7 @@
+name-last:  Seaman
+name-first: Louis 
+name-given: Louis Joseph
+ 
+birth-date: 1897-07-09
+birth-place: US, NY, Brooklyn
+ 

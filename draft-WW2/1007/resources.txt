@@ -1,0 +1,8 @@
+source-title: World War II registration card
+source-file-name: 30955_165936-05423.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-10
+contributor-email: timcopeland64@gmail.com

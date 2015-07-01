@@ -1,0 +1,6 @@
+name-last:  Ransom
+name-first:  Julian
+name-given: Julian Medicus
+ 
+birth-date: 1886-12-24
+birth-place: US, TX, Chatfield

@@ -1,0 +1,5 @@
+name-last: St. Martin 
+name-given: Victor N. 
+ 
+birth-date: 1891-07-26
+birth-place: CA, QC, Saint-Joseph-de-Sorel

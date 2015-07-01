@@ -1,0 +1,9 @@
+source-title: Willie Crosby World War I draft card
+source-file-name: 005153648_00343.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-24
+contributor-email: timcopeland64@gmail.com
+ 

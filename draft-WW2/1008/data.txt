@@ -1,0 +1,5 @@
+name-last:  Trexler
+name-given: Richard Floyd
+ 
+birth-date: 1894-11-30
+birth-place: US, NC, Salisbury

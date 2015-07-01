@@ -1,0 +1,5 @@
+name-last: Rushing
+name-given: Herbert Ellis
+ 
+birth-date: 1906-04-17
+birth-place: US, MS, Hazlehurst

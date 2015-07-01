@@ -1,0 +1,8 @@
+source-title: World War II draft card for Ross Sprinkle
+source-file-name: 004142977_05169.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-25
+contributor-email: timcopeland64@gmail.com

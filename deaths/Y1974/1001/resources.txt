@@ -1,0 +1,8 @@
+source-title: Florida Death Index for Stanley Lujack
+source-file-name: Florida Death Index, 1877-1998 - Ancestry.pdf
+source-file-type: application/pdf
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-31
+contributor-email: timcopeland64@gmail.com

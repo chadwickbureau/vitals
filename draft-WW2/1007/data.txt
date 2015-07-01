@@ -1,0 +1,7 @@
+name-last:  Rhoads
+name-first: Elton 
+name-given: Elton Eugene
+ 
+birth-date: 1885-08-02
+birth-place: US, IL, Paris
+ 

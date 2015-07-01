@@ -1,0 +1,12 @@
+name-last: Poindexter
+name-first: Dee
+name-given: Cecil Dee
+ 
+birth-date: 1876-08-16
+birth-place: US, TX, Waxahachie
+ 
+death-date: 1954-12-09
+death-place: US, TX, Corsicana  
+ 
+cemetery-name:  Oakwood Cemetery
+cemetery-place: US, TX, Corsicana

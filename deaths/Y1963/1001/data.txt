@@ -1,0 +1,11 @@
+name-last:  Ransom
+name-first:  Julian
+ 
+birth-date: 1886-12-24
+birth-place: US, TX, Navarro County
+ 
+death-date: 1963-01-07
+death-place: US, TX, Corsicana 
+ 
+cemetery-name:  Oakwood Cemetery
+cemetery-place: US, TX, Corsicana

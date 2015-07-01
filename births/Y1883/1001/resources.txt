@@ -1,0 +1,8 @@
+source-title: Ross Sprinkle Ohio Births Index entry from Ancestry.com
+source-file-name: Ross Sprinkle Ohio Births Index.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-25
+contributor-email: timcopeland64@gmail.com

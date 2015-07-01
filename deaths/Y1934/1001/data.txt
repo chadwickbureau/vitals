@@ -1,0 +1,9 @@
+name-last: Pollan
+name-first: Wayne
+name-given: Wayne Rhea
+ 
+birth-date: 1906-07-05
+birth-place: US, TX, Rice
+ 
+death-date: 1934-06-10
+death-place: US, TX, El Paso

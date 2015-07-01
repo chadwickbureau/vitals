@@ -1,0 +1,7 @@
+name-last:  Munn
+name-first:  Norman
+name-given: Norman Wesley
+ 
+birth-date: 1887-08-23
+birth-place: US, TN, Joelton
+ 

@@ -1,0 +1,9 @@
+source-title: Pat Meaney death certificate
+source-file-name: Patrick Meaney death certificate.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-06-18
+ 

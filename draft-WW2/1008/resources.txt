@@ -1,0 +1,8 @@
+source-title: World War II Registration card  
+source-file-name: VA-2370557.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-12
+contributor-email: timcopeland64@gmail.com

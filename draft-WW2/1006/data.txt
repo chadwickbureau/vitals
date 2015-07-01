@@ -1,0 +1,6 @@
+name-last: Luntsford
+name-first: Lynn
+name-given: Lynn Jackson
+ 
+birth-date: 1909-02-27
+birth-place: US, GA, Athens

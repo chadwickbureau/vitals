@@ -1,0 +1,8 @@
+source-title: World War I Registration Card for Clay Robb
+source-file-name: 005248302_05049.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-05
+contributor-email: timcopeland64@gmail.com

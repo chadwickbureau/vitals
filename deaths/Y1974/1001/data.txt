@@ -1,0 +1,8 @@
+name-last: Lujack
+name-first: Stanley
+name-given: Stanley Aloysius
+ 
+birth-date: 1915-11-04
+ 
+death-date: 1974-08-18
+death-place: US, FL, Manatee County

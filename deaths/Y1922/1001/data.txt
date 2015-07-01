@@ -1,0 +1,8 @@
+name-last: Meaney
+name-given: Patrick
+ 
+death-date: 1922-10-20
+death-place: US, PA, Philadelphia
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, PA, Yeadon

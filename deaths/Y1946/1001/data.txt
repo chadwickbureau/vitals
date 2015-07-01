@@ -1,0 +1,12 @@
+name-last: McKinney
+name-first: Robert
+name-given: Robert F.
+ 
+birth-date: 1875-10-04
+birth-place: US, PA, McSherrystown
+ 
+death-date:  1946-08-19
+death-place: US, PA, Hanover
+ 
+cemetery-name: Annunciation of the Blessed Virgin Mary Cemetery
+cemetery-place: US, PA, McSherrystown

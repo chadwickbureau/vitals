@@ -1,0 +1,12 @@
+name-last:  Ruth
+name-first:  A.
+name-given: A. P.
+ 
+birth-date: 1899-02-23
+birth-place: US, TX, Navarro
+ 
+death-date: 1971-09-28
+death-place: US, TX, Corsicana
+ 
+cemetery-name:  Hamilton Cemetery
+cemetery-place: US, TX, Retreat

@@ -1,0 +1,6 @@
+name-last:  Cosgrove
+name-given: Lawrence Joseph
+ 
+birth-date: 1889-03-20
+birth-place: US, CT, Waterbury
+ 

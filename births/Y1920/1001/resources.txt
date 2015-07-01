@@ -1,0 +1,8 @@
+source-title: Kent Sterling birth certificate
+source-file-name: Kent Sterling Cook County birth certificate entry on Ancestry.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-24
+contributor-email: timcopeland64@gmail.com

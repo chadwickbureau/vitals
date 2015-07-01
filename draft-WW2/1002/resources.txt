@@ -1,0 +1,8 @@
+source-title: Martin Moraghan World War II draft registration card
+source-file-name: 005206242_01153.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-09
+contributor-email: timcopeland64@gmail.com

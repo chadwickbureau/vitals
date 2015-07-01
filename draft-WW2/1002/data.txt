@@ -1,0 +1,7 @@
+name-last:  Moraghan
+name-first:  Martin
+name-given: Martin John
+ 
+birth-date: 1883-11-10
+birth-place: US, CT, Litchfield
+ 

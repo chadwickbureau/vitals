@@ -1,0 +1,5 @@
+name-last: Sprinkle
+name-given: Ross Cecil 
+ 
+birth-date: 1883-08-22
+birth-place: US, OH, Lawrence

@@ -1,0 +1,9 @@
+source-title:  World War I Registration Card
+source-file-name: 005257180_04133.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-10
+contributor-email: timcopeland64@gmail.com
+_

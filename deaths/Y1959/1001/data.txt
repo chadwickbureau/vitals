@@ -1,0 +1,11 @@
+name-last: Morgan
+name-given: Ezra
+ 
+birth-date: 1873-02-13
+birth-place: US, PA, Llewellyn
+ 
+death-date: 1959-02-24
+death-place: US, PA, Coal Township
+ 
+cemetery-name:  Mount Carmel Cemetery
+cemetery-place: US, PA, Mount Carmel

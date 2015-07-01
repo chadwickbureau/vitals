@@ -1,0 +1,5 @@
+name-last: Geib
+name-first: William
+
+birth-date: 1890-04-08
+birth-place: US, OH, Walnut Creek
