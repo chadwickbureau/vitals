@@ -1,0 +1,12 @@
+name-last:  Gibson
+name-first: James Clyde 
+
+birth-date: 1886-05-06
+birth-place: US, PA, Sharon
+
+death-date: 1940-11-07
+death-place: US, PA, Sharon 
+
+cemetery-name: Oakwood Cemetery 
+cemetery-place: US, PA, Mercer 
+

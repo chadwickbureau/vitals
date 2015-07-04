@@ -1,0 +1,12 @@
+name-last: Forred
+name-first: Jacob
+name-given: Jacob T.
+
+birth-date: 1869-12-12
+birth-place: US, PA, Danville
+
+death-date: 1958-02-13
+death-place: US, PA, Shamokin
+
+cemetery-name:  Shamokin Cemetery
+cemetery-place: US, PA, Shamokin

@@ -1,0 +1,12 @@
+name-last:  Ogden
+name-first:  Joseph
+name-given: Joseph Pinter
+
+birth-date: 1892-02-12
+birth-place: US, AR,
+
+death-date: 1964-06-20
+death-place: US, TX, Livingston 
+
+cemetery-name:  Harlingen Cemetery
+cemetery-place: US, TX, Harlingen

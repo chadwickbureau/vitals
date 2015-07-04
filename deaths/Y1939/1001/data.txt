@@ -1,0 +1,8 @@
+name-last: Harkins
+name-first: Charles F. 
+
+death-date: 1939-03-15
+death-place: US, PA, York 
+
+cemetery-name: Greenmount Cemetery 
+cemetery-place: US, PA, York

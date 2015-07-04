@@ -1,0 +1,8 @@
+source-title: Don Frazee death certificate
+source-file-name: 40394_b061978-01684 (1).jpg
+source-file-type: application/jpg
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-22
+contributor-email: timcopeland64@gmail.com

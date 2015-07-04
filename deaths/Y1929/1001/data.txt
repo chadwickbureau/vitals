@@ -1,0 +1,5 @@
+name-last:  Frazee
+name-first:  Don
+
+death-date: 1929-01-24
+death-place: US, TX, San Angelo

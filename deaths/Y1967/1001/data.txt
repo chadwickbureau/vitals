@@ -1,0 +1,13 @@
+name-last:  Dorow
+name-first:  Leroy
+name-given: Leroy Charles
+
+birth-date: 1932-02-14
+birth-place: US, MI,
+
+death-date: 1967-01-10
+death-place: US, MI, Benton Harbor
+
+cemetery-name:  Riverview Cemetery
+cemetery-place: US, MI, Saint Joseph
+

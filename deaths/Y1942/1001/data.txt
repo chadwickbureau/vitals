@@ -1,0 +1,11 @@
+name-last: Chellew
+name-given: Robert
+
+birth-date: 1880-03-20
+birth-place: US, PA, Danville
+
+death-date: 1942-12-03
+death-place: US, PA, Harrisburg
+
+cemetery-name:  East Harrisburg Cemetery
+cemetery-place: US, PA, Harrisburg

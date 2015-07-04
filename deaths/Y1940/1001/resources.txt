@@ -1,0 +1,6 @@
+source-title: Pennsylvania Death Certificate
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-03
+contributor-email: timcopeland64@gmail.com

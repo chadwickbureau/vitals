@@ -1,0 +1,8 @@
+source-title: Michigan, Deaths and Burials Index from Ancestry.com
+source-file-name: Michigan, Deaths and Burials Index, 1867-1995 – Ancestry.pdf
+source-file-type: application/pdf
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-09
+contributor-email: timcopeland64@gmail.com

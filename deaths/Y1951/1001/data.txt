@@ -1,0 +1,12 @@
+name-last:  Hallman
+name-given:  Richard Francis
+
+birth-date: 1924-05-31
+birth-place: US, PA, Limerick
+
+death-date: 1951-04-12
+death-place: US, PA, East Coventry
+
+cemetery-name:  Zion Lutheran Church Cemetery
+cemetery-place: US, PA, East Pikeland Township
+

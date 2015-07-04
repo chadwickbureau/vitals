@@ -1,0 +1,8 @@
+source-title: PA Death Certificate
+source-file-name: 42410_3421606187_0691-01817.jpg
+source-file-type: application/jpg
+
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-05
+contributor-email: timcopeland64@gmail.com
