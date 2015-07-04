@@ -1,0 +1,6 @@
+name-last:  Ruth
+name-first:  Adolph
+name-given: Adolph Prince
+ 
+birth-date: 1899-02-23
+ 

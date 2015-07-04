@@ -1,0 +1,8 @@
+source-title: August Tagliente veterans burial card
+source-file-name: 31501_B018546-00159.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-22
+contributor-email: timcopeland64@gmail.com

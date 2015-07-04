@@ -1,0 +1,8 @@
+name-last:  Edmunds
+name-first:  Merle
+ 
+death-date: 1979-02-19
+ 
+military-country: US
+military-conflict:  World War I from #1918-06-25 to 1919-07-15
+ 

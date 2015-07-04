@@ -1,0 +1,8 @@
+source-title:  U.S., World War I Draft Registration Cards, 1917-1918
+source-file-name: 005153616_02624.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-27
+contributor-email: timcopeland64@gmail.com

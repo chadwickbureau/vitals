@@ -1,0 +1,9 @@
+name-last: Pancoe
+name-first: Joseph
+ 
+birth-date: 1926-04-09
+ 
+death-date: 1985-03-30
+ 
+military-country: US
+military-conflict:  World War II from # 1943-12-15 to 1946-03-01

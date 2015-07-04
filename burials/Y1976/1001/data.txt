@@ -1,0 +1,13 @@
+name-last: Crooks
+name-given: Dean Millard
+ 
+birth-date: 1925-03-06
+ 
+death-date: 1976-10-04
+ 
+military-country: US
+military-branch:  Navy
+military-conflict: World War II
+ 
+cemetery-name:  Myrtle Cemetery
+cemetery-place: US, PA, McKean County

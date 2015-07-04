@@ -1,0 +1,8 @@
+source-title: Bones Sanders TX Death Certificate
+source-file-name: 40394_b062583-02460.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-27
+contributor-email: timcopeland64@gmail.com

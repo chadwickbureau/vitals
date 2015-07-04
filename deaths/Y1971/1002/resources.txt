@@ -1,0 +1,8 @@
+source-title:  North Carolina, Death Certificates, 1909-1975 
+source-file-name: S123_627-0634.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-25
+contributor-email: timcopeland64@gmail.com

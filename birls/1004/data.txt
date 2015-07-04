@@ -1,0 +1,9 @@
+name-last:  Maness
+name-first:  Oscar
+ 
+birth-date: 1920-08-09
+ 
+death-date: 1976-03-31
+ 
+military-country: US
+military-conflict: World War II from #1942-08-06 to 1945-11-28

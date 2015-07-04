@@ -1,0 +1,10 @@
+name-last: Cavanaugh
+name-first: William
+ 
+birth-date: 1926-05-21
+ 
+death-date: 1985-08-21
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II from # 1943-10-07 to 1946-04-25

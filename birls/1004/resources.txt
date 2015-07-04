@@ -1,0 +1,7 @@
+source-title: U.S., Department of Veterans Affairs BIRLS Death File, 1850-2010
+source-url:  ancestry.com
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-21
+contributor-email: timcopeland64@gmail.com

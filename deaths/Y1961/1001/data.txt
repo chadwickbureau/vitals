@@ -1,0 +1,13 @@
+name-last: Sanders
+name-first: Bones
+name-given: Battle Malone
+ 
+birth-date: 1917-10-23
+birth-place: US, TX,
+ 
+death-date: 1961-01-27
+death-place: US, TX, Texas City
+ 
+cemetery-name:  Oakwood Cemetery
+cemetery-place: US, TX, Corsicana
+ 

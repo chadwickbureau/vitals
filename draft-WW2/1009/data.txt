@@ -1,0 +1,6 @@
+name-last: Slaughter 
+name-given: William Glenn
+ 
+birth-date: 1916-04-22
+birth-place: US, SC, York County
+ 

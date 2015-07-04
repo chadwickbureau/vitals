@@ -1,0 +1,14 @@
+name-last:  Lamb
+name-first:  David
+name-given: David Edwin
+ 
+birth-date: 1896-10-24
+ 
+death-date: 1953-08-02
+ 
+military-country: US
+military-branch:  Army
+military-conflict: World War I from # 1917-10-13 to 1919-06-30
+ 
+cemetery-name:  Memorial Park Cemetery
+cemetery-place: US, KS, Kansas City

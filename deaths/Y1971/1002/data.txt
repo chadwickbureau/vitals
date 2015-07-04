@@ -1,0 +1,12 @@
+name-last: Slaughter
+name-given: William Glenn
+ 
+birth-date: 1916-04-22
+birth-place: US, SC,
+ 
+death-date: 1971-07-25
+death-place: US, NC, Mebane 
+ 
+cemetery-name:  Alamance Memorial Park
+cemetery-place: US, NC, Burlington 
+ 

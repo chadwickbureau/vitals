@@ -1,0 +1,8 @@
+source-title:  Pennsylvania, Veterans Burial Cards, 1777-2012
+source-file-name: 31501_B024009-00399.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2015-05-25
+contributor-email: timcopeland64@gmail.com
