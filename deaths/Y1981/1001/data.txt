@@ -1,0 +1,9 @@
+name-last: Crawford
+name-first: Ivan
+name-given: Ivan Lewis
+ 
+birth-date: 1912-02-01
+birth-place: US, CA
+ 
+death-date: 1981-03-09
+death-place: US, CA, San Luis Obispo

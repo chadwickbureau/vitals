@@ -1,0 +1,7 @@
+source-title: California Death Index on Ancestry.com
+source-url: http://search.ancestry.com/cgi-bin/sse.dll?db=CAdeath1940&h=1565921&indiv=try&o_vc=Record:OtherRecord&rhSource=6482
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2014-12-31

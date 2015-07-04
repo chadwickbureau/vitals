@@ -1,0 +1,10 @@
+name-last: Crandall
+name-first: Karl
+name-given: Karl Everett
+ 
+birth-date: 1889-03-30
+birth-place: US, IN, Wadena
+ 
+death-date: 1960-07-09
+death-place: US, CA, San Diego
+ 
