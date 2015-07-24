@@ -1,0 +1,9 @@
+name-last: South
+name-first: George
+name-given: George A.
+ 
+birth-date: 1914-04-18
+birth-place: US, IN,
+ 
+death-date: 1963-02-09
+death-place:  US, CA, Shasta County

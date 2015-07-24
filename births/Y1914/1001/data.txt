@@ -1,0 +1,6 @@
+name-last: South
+name-first: George
+name-given: George Allen
+ 
+birth-date: 1914-04-18
+birth-place: US, IN, Spencer County

@@ -1,0 +1,8 @@
+source-title: Fred Doenig BIRLS data
+source-file-name: Fred Doenig BIRLS data.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-07-15

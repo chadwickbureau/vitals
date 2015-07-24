@@ -1,0 +1,10 @@
+name-last: Doenig
+name-first: Fred
+ 
+birth-date: 1920-12-05
+ 
+death-date: 1999-09-20
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II #from 1943-01-04 to 1945-12-13
