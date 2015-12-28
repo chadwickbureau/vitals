@@ -1,0 +1,8 @@
+name-last: Kimerer
+name-given: Clement Louis
+ 
+birth-date: 1871-06-23
+birth-place: US, NE, Lincoln
+ 
+death-date: 1947-11-29
+death-place:  US, UT, Salt Lake City

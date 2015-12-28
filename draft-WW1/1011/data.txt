@@ -1,0 +1,6 @@
+name-last: Wertz
+name-first: Ray
+name-given: Harry Ray
+ 
+birth-date: 1891-03-07
+birth-place: US, PA, Newport

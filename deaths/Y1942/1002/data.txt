@@ -1,0 +1,11 @@
+name-last: Wertz
+name-first: Ray
+name-given: H. Ray
+ 
+birth-date: 1891-03-07
+birth-place: US, PA,
+ 
+death-date: 1942-02-26
+death-place: US, PA, Philadelphia
+ 
+cemetery-place: US, PA, Newport

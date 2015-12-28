@@ -1,0 +1,8 @@
+source-title: Ray Wertz World War I draft registration card
+source-file-name: Ray Wertz WWI draft registration card.jpg
+source-file-type: application/jpeg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2015-08-01

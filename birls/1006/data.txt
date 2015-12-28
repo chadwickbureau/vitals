@@ -1,0 +1,10 @@
+name-last: Stalcup
+name-given: Marion
+ 
+birth-date: 1919-08-17
+ 
+death-date: 1986-01-06
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1944-07-27 to 1946-06-20
