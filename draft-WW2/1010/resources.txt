@@ -1,0 +1,8 @@
+source-title: Lawrence Purtell WWII Registration Card
+source-file-name: Purtell WWII Registration Card.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-11

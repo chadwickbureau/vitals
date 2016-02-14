@@ -1,0 +1,9 @@
+source-title: Anucauskas BIRL file
+source-file-name: Anucauskas BIRL file.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-01-14
+ 

@@ -1,0 +1,9 @@
+name-last: Hart
+name-given: William Fredrick
+ 
+alias-type: birth
+alias-last: Harth
+alias-given: William Fredrick
+ 
+birth-date: 1890-05-18
+birth-place: US, PA, Baldwin Township

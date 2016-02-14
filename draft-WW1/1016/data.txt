@@ -1,0 +1,6 @@
+name-last: Emery
+name-first: Burleigh
+name-given: Burleigh Samuel
+ 
+birth-date: 1884-02-17
+birth-place: US, KS, Chetopa

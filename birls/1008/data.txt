@@ -1,0 +1,10 @@
+name-last: Anucauskas
+name-given: Victor
+ 
+birth-date: 1923-04-16
+ 
+death-date: 2006-04-23
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1943-05-26 to 1946-01-11

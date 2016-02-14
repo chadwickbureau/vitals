@@ -1,0 +1,8 @@
+source-title: Harry Weir death certificate
+source-file-name: 42410_3421606187_0672-01856.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-07
+contributor-email: timcopeland64@gmail.com

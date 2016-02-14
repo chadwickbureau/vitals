@@ -1,0 +1,10 @@
+source-title: Walter Brothers WWWI registration card
+source-file-name: Walter Brothers WWWI registration card.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-02
+ 
+

@@ -1,0 +1,16 @@
+name-last: Weir
+name-first: Harry
+name-given: Harry M.
+name-suffix: Sr.
+
+birth-date: 1895-04-04
+ 
+death-date: 1947-07-23
+death-place: US, PA, Kingston
+ 
+military-country: US
+military-branch:  Navy
+military-conflict: World War I
+ 
+cemetery-name:  Fern Knoll Burial Park
+cemetery-place: US, PA, Dallas

@@ -1,0 +1,6 @@
+name-last: Purtell
+name-first: Lawrence
+name-given: Lawrence M.
+ 
+birth-date: 1890-07-23
+birth-place: US, OH, Columbus

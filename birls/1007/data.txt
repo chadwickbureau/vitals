@@ -1,0 +1,11 @@
+name-last: Lizotte
+name-first: Harry
+name-given: Harry Abel
+ 
+birth-date: 1921-05-02
+ 
+death-date: 1975-09-23
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1942-10-15 to 1945-11-09

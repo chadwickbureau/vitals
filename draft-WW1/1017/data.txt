@@ -1,0 +1,5 @@
+name-last: Humphries
+name-given: James
+ 
+birth-date: 1889-12-23
+birth-place: US, TX, Waco

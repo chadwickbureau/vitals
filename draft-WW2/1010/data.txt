@@ -1,0 +1,5 @@
+name-last: Purtell
+name-first: Marty
+ 
+birth-date: 1889-07-23
+birth-place: US, OH, Columbus

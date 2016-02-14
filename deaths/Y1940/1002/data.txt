@@ -1,0 +1,12 @@
+name-last: Hardgrove
+name-first: Omer
+name-given: Omer William
+ 
+birth-date: 1885-01-07
+birth-place: US, MO, Atlanta
+ 
+death-date: 1940-08-07
+death-place: US, IL, Monmouth
+ 
+cemetery-name:  Monmouth
+cemetery-place: US, IL, Monmouth

@@ -1,0 +1,12 @@
+name-last: Hammond
+name-first: Harry
+name-given: Harry G.
+ 
+birth-date: 1883-06-11
+birth-place: US, OH,
+ 
+death-date: 1911-10-30
+death-place:  US, KY, Newport
+ 
+cemetery-name: Evergreen Cemetery
+cemetery-place: US, KY, Southgate

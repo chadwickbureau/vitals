@@ -1,0 +1,6 @@
+name-last: Dysert
+name-first: Charles
+name-given: Charles Cornman
+ 
+birth-date: 1888-02-08
+birth-place: US, PA, Carlisle

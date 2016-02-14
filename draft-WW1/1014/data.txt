@@ -1,0 +1,6 @@
+name-last: Brothers
+name-first: Walter
+name-given: Walter Eugene
+ 
+birth-date: 1890-08-13
+birth-place: US, SC, Charleston

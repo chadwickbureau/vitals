@@ -1,0 +1,9 @@
+source-title: Jimmie Humphries WWI Registration Card
+source-file-name: Jimmie Humphries WWI Registration Card.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-13
+ 
