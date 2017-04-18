@@ -1,0 +1,15 @@
+key-findagrave: 73030796
+ 
+name-last: Sanders         
+name-first: Malone
+name-given: Battle Malone
+name-nick: Bones
+ 
+birth-date: 1917-10-23
+birth-place: US, TX, Corsicana
+ 
+death-date: 1961-01-27
+death-place:  US, TX, Texas City
+ 
+cemetery-name: Oakwood Cemetery
+cemetery-place: US, TX, Corsicana

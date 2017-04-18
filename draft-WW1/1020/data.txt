@@ -1,0 +1,8 @@
+name-last:  Smith
+name-first:  Dick
+ 
+alias-type: birth
+alias-last: Gavin
+alias-given: Thomas S.
+ 
+birth-date: 1873-11-05

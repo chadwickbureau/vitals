@@ -1,0 +1,8 @@
+source-title: Zora Clevenger WWII registration card
+source-file-name: IN-2240511-1541.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-17

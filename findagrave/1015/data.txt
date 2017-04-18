@@ -1,0 +1,11 @@
+key-findagrave: 65810276
+ 
+name-last: DeVormer
+name-first: Oral
+name-given:  Oral Albert
+ 
+birth-date: 1917-09-16
+birth-place: US, MI, Grand Rapids
+ 
+death-date: 1939-07-21
+death-place: US, MI, Grand Rapids

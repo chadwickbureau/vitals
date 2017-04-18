@@ -1,0 +1,10 @@
+name-last: Westervelt
+name-first: Fred
+ 
+birth-date: 1916-04-26
+ 
+death-date: 1986-07-06
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1945-07-17 to 1946-08-09

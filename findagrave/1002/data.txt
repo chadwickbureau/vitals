@@ -1,0 +1,18 @@
+key-findagrave:  117242827
+ 
+name-last: Fulton
+name-first: Charles
+name-given: Charles Fauntleroy
+ 
+birth-date: 1892-01-01
+ 
+death-date: 1985-01-30
+ 
+meta-throws: Left
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I
+ 
+cemetery-name: Boone Memorial Park
+cemetery-place: US, WV, Madison

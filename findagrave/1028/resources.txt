@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Walter Rougeux
+source-date: 2016-04-04
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Rougeux&GSiman=1&GScnty=2257&GSob=c&GRid=150896631&
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-04-04

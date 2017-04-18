@@ -1,0 +1,17 @@
+key-findagrave:  86989412
+ 
+name-last: Oliger
+name-first: Edward
+name-given: Edward C.
+ 
+birth-date: 1942-10-11
+ 
+death-date: 2008-09-22
+ 
+affiliation-role: umpire
+affiliation-league: National
+affiliation-date-start: 1979
+affiliation-date-end: 1979
+ 
+cemetery-name: Gate of Heaven Cemetery
+cemetery-place: US, OH, Montgomery

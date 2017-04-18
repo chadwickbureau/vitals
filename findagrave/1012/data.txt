@@ -1,0 +1,12 @@
+name-last: Malott
+name-first: Joe
+name-given: Joseph Anton
+ 
+birth-date: 1929-05-08
+birth-place: US, MO, Kansas City
+ 
+death-date: 2014-09-13
+death-place:  US, OK, Miami
+ 
+cemetery-name: Carselowey Cemetery
+cemetery-place: US, OK, Ketchum

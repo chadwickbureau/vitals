@@ -1,0 +1,5 @@
+name-last: Kelly
+name-given: Charles Elmer
+ 
+birth-date: 1894-07-20
+birth-place: US, VA, Petersburg

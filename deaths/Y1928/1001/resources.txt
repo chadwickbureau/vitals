@@ -1,0 +1,8 @@
+source-title:  Johnnie Honig’s death certificate
+source-file-name: 42342_2421406272_0679-02215.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-27
+contributor-email: timcopeland64@gmail.com

@@ -1,0 +1,13 @@
+key-findagrave: 103858438
+ 
+name-last: Hoffman
+name-first: Jack
+name-given: Jack Hersh
+ 
+birth-date: 1921-11-24
+ 
+death-date: 1940-09-28
+death-place:  US, OH, Maple Grove
+ 
+cemetery-name: Westwood Cemetery
+cemetery-place: US, OH, Woodville

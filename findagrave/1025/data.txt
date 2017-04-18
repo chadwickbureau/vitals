@@ -1,0 +1,13 @@
+key-findagrave:  122249505
+ 
+name-last: Priest
+name-given: Morey Jordan
+ 
+birth-date:  1891-11-25
+birth-place: US, TN,
+ 
+death-date: 1934-07-27
+death-place:  US, TN, Nashville
+ 
+cemetery-name: Mount Olivet Cemetery
+cemetery-place: US, TN, Nashville

@@ -1,0 +1,7 @@
+name-last: Honig
+name-first: Johnnie
+ 
+death-date: 1928-07-09
+death-place: US, PA, Chester
+ 
+cemetery-place: US, VA, Portsmouth

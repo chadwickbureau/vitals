@@ -1,0 +1,6 @@
+name-last: Clevenger
+name-first: Zora
+name-given: Zora Goodwin
+ 
+birth-date: 1881-12-21
+birth-place: US, IN, Randolph County

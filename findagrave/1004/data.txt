@@ -1,0 +1,18 @@
+key-findagrave: 5589986
+ 
+name-last: Vaiden
+name-first:  Tom
+name-given: Thomas Clifford
+ 
+birth-date: 1890-11-13
+birth-place:  US, MS, Vaiden
+ 
+death-date: 1955-06-06
+death-place:  US, MS, Jackson
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I
+ 
+cemetery-name: Vaiden Cemetery
+cemetery-place: US, MS, Vaiden

@@ -1,0 +1,29 @@
+key-findagrave: 103856526
+ 
+name-last: Garten
+name-first: Bill
+name-given: William Lacy
+ 
+birth-date: 1928-06-09
+birth-place: US, WV, Fayette County
+ 
+death-date: 2008-05-02
+death-place:  US, WV, Hinton
+ 
+school-level: secondary
+school-name:  Fayetteville HS
+school-place: US, WV, Fayetteville
+ 
+school-level: college
+school-name: University of West Virginia
+ 
+school-level: college
+school-name: Concord University
+school-place: US, WV, Athens
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Korean War
+ 
+cemetery-name: Restwood Cemetery
+cemetery-place: US, WV, Hinton

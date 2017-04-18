@@ -1,0 +1,8 @@
+name-last: Morpeth
+name-given: Casper
+ 
+birth-date: 1894-02-15
+birth-place: US, PA, Wilkes-Barre
+ 
+death-date: 1944-01-28
+death-place:  US, PA, Pittston

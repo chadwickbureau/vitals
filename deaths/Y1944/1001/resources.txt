@@ -1,0 +1,9 @@
+source-title: Casper Morpeth death certificate
+source-file-name: Casper Morpeth death certificate.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-02-15
+ 

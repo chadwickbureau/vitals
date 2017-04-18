@@ -1,0 +1,12 @@
+key-findagrave: 108784323
+ 
+name-last: Hackett
+name-first: Dale
+name-given: Lester Dale
+ 
+birth-date: 1918-09-18
+ 
+death-date: 1977-07-19
+ 
+cemetery-name: Farragut Cemetery
+cemetery-place: US, IA, Farragut

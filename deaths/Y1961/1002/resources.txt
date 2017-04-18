@@ -1,0 +1,8 @@
+source-title:  David Espie’s Kentucky, Death Record
+source-file-name: 44144_356767-00543.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-26
+contributor-email: timcopeland64@gmail.com

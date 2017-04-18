@@ -1,0 +1,11 @@
+key-findagrave: 3264624
+
+name-last: Kluttz
+name-given: Alvin Clifton
+ 
+birth-date: 1922-01-13
+ 
+death-date: 1985-05-26
+ 
+cemetery-name: Salisbury National Cemetery
+cemetery-place: US, NC, Salisbury

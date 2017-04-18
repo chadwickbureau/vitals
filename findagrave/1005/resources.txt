@@ -1,0 +1,8 @@
+source-title: Find a Grave page for Zora G. Clevenger
+source-date: 2017-01-17
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=116245688&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-01-17

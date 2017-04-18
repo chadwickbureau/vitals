@@ -1,0 +1,8 @@
+source-title: Find A Grave entry for William Hankins
+source-date: 2016-06-03
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=41663166&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-06-03

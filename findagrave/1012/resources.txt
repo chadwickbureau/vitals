@@ -1,0 +1,8 @@
+source-title: Find a Grave entry for Joe Malott
+source-date: 2016-12-08
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=136075517
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-08

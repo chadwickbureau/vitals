@@ -1,0 +1,12 @@
+key-findagrave: 41663166
+ 
+name-last: Hankins
+name-first: William
+name-given: William Rush
+ 
+birth-date: 1913-07-28
+ 
+death-date: 1967-07-25
+ 
+cemetery-name: Bethany Cemetery
+cemetery-place: US, SC, Charleston

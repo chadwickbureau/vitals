@@ -1,0 +1,14 @@
+key-findagrave: 128120184
+ 
+name-last: Radabaugh
+name-first: Ralph
+name-given: Ralph A.
+ 
+birth-date: 1912-08-30
+birth-place: US, OH, Ottawa
+ 
+death-date: 2002-07-15
+death-place:  US, FL, Collier Park
+ 
+cemetery-name: Harman Cemetery
+cemetery-place: US, OH, Gilboa

@@ -1,0 +1,9 @@
+key-ssn: 410209601
+ 
+name-last: Conant
+name-first: John
+name-given: John Joseph
+name-suffix: Jr.
+ 
+death-date: 1986-01-09
+death-place: US, WA, Spokane

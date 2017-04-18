@@ -1,0 +1,12 @@
+key-findagrave: 65868203
+ 
+name-last: Hiller
+name-first: Paul
+name-given: Paul P.
+ 
+birth-date: 1923-12-07
+ 
+death-date: 1962-11-25
+ 
+cemetery-name: Catholic Cemetery of Presentation Church and Saint
+cemetery-place: US, NE, Bellwood

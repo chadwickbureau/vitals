@@ -1,0 +1,15 @@
+key-findagrave: 70832440
+ 
+name-last: Nance
+name-first: Clyde
+name-given: Clyde Lonzie
+name-nick: Farmer
+ 
+birth-date: 1907-04-06
+birth-place: US, WA, Freeman
+ 
+death-date: 1929-03-31
+death-place:  US, CA, Merced County
+ 
+cemetery-name: Belmont Memorial Park
+cemetery-place: US, CA, Fresno

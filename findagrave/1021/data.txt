@@ -1,0 +1,11 @@
+key-findagrave: 89596606
+
+name-last: Holland
+name-given: Joseph Gordon
+ 
+birth-date: 1884-12-08
+ 
+death-date: 1955-12-08
+ 
+cemetery-name: East View Cemetery
+cemetery-place: US, SC, Edgefield

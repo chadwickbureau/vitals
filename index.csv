@@ -7,15 +7,20 @@ birls/1005,,Doenig,Fred,,1920-12-05,1999-09-20
 birls/1006,,Stalcup,,Marion,1919-08-17,1986-01-06
 birls/1007,,Lizotte,Harry,Harry Abel,1921-05-02,1975-09-23
 birls/1008,,Anucauskas,,Victor,1923-04-16,2006-04-23
+birls/1009,,Westervelt,Fred,,1916-04-26,1986-07-06
 births/Y1883/1001,,Sprinkle,Ross,,1883-08-22,
+births/Y1895/1001,,Honig,,John D.,1895-01-05,
 births/Y1914/1001,,South,George,George Allen,1914-04-18,
 births/Y1920/1001,,Sterling,Kent,Kent Warren,1920-08-25,
 burials/Y1938/1001,,Marhefka,,Anthony T.,1886-07-20,1938-05-19
 burials/Y1953/1001,,Lamb,David,David Edwin,1896-10-24,1953-08-02
+burials/Y1956/1001,,Fleharty,Earl,Earl Leroy,1886-07-26,1956-03-22
+burials/Y1961/1001,,Smith,Edwin,Edwin Ferquean,1923-09-19,1961-10-05
 burials/Y1964/1001,,Tagliente,August,August G.,1924-08-17,1964-06-22
 burials/Y1976/1001,,Crooks,,Dean Millard,1925-03-06,1976-10-04
 deaths/Y1911/1001,,Hammond,Harry,Harry G.,1883-06-11,1911-10-30
 deaths/Y1922/1001,,Meaney,,Patrick,,1922-10-20
+deaths/Y1928/1001,,Honig,Johnnie,,,1928-07-09
 deaths/Y1929/1001,,Frazee,Don,,,1929-01-24
 deaths/Y1934/1001,,Pollan,Wayne,Wayne Rhea,1906-07-05,1934-06-10
 deaths/Y1939/1001,,Harkins,Charles F.,,,1939-03-15
@@ -23,6 +28,7 @@ deaths/Y1940/1001,,Gibson,James Clyde,,1886-05-06,1940-11-07
 deaths/Y1940/1002,,Hardgrove,Omer,Omer William,1885-01-07,1940-08-07
 deaths/Y1942/1001,,Chellew,,Robert,1880-03-20,1942-12-03
 deaths/Y1942/1002,,Wertz,Ray,H. Ray,1891-03-07,1942-02-26
+deaths/Y1944/1001,,Morpeth,,Casper,1894-02-15,1944-01-28
 deaths/Y1946/1001,,McKinney,Robert,Robert F.,1875-10-04,1946-08-19
 deaths/Y1947/1001,,Kimerer,,Clement Louis,1871-06-23,1947-11-29
 deaths/Y1947/1002,,Weir,Harry,Harry M.,1895-04-04,1947-07-23
@@ -32,6 +38,7 @@ deaths/Y1958/1001,,Forred,Jacob,Jacob T.,1869-12-12,1958-02-13
 deaths/Y1959/1001,,Morgan,,Ezra,1873-02-13,1959-02-24
 deaths/Y1960/1001,,Crandall,Karl,Karl Everett,1889-03-30,1960-07-09
 deaths/Y1961/1001,,Sanders,Bones,Battle Malone,1917-10-23,1961-01-27
+deaths/Y1961/1002,,Espie,David,David A.,1901-09-11,1961-03-25
 deaths/Y1963/1001,,Ransom,Julian,,1886-12-24,1963-01-07
 deaths/Y1963/1002,,South,George,George A.,1914-04-18,1963-02-09
 deaths/Y1964/1001,,Ogden,Joseph,Joseph Pinter,1892-02-12,1964-06-20
@@ -40,6 +47,7 @@ deaths/Y1971/1001,,Ruth,A.,A. P.,1899-02-23,1971-09-28
 deaths/Y1971/1002,,Slaughter,,William Glenn,1916-04-22,1971-07-25
 deaths/Y1974/1001,,Lujack,Stanley,Stanley Aloysius,1915-11-04,1974-08-18
 deaths/Y1981/1001,,Crawford,Ivan,Ivan Lewis,1912-02-01,1981-03-09
+deaths/Y1986/1001,,Conant,John,John Joseph,,1986-01-09
 draft-WW1/1001,,Cosgrove,,Lawrence Joseph,1889-03-20,
 draft-WW1/1002,,Seaman,Louis,Louis Joseph,1897-07-09,
 draft-WW1/1003,,Mohney,,Inal James,1899-09-03,
@@ -57,6 +65,9 @@ draft-WW1/1014,,Brothers,Walter,Walter Eugene,1890-08-13,
 draft-WW1/1015,,Purtell,Lawrence,Lawrence M.,1890-07-23,
 draft-WW1/1016,,Emery,Burleigh,Burleigh Samuel,1884-02-17,
 draft-WW1/1017,,Humphries,,James,1889-12-23,
+draft-WW1/1018,,Kelly,,Charles Elmer,1894-07-20,
+draft-WW1/1019,,Goalby,Frank,Frank John,1890-01-18,
+draft-WW1/1020,,Smith,Dick,,1873-11-05,
 draft-WW2/1001,,Sprinkle,,Ross Cecil,1883-08-22,
 draft-WW2/1002,,Moraghan,Martin,Martin John,1883-11-10,
 draft-WW2/1003,,Munn,Norman,Norman Wesley,1887-08-23,
@@ -67,3 +78,32 @@ draft-WW2/1007,,Rhoads,Elton,Elton Eugene,1885-08-02,
 draft-WW2/1008,,Trexler,,Richard Floyd,1894-11-30,
 draft-WW2/1009,,Slaughter,,William Glenn,1916-04-22,
 draft-WW2/1010,,Purtell,Marty,,1889-07-23,
+draft-WW2/1011,,Clevenger,Zora,Zora Goodwin,1881-12-21,
+findagrave/1001,,Hiller,Paul,Paul P.,1923-12-07,1962-11-25
+findagrave/1002,,Fulton,Charles,Charles Fauntleroy,1892-01-01,1985-01-30
+findagrave/1003,,Hackett,Dale,Lester Dale,1918-09-18,1977-07-19
+findagrave/1004,,Vaiden,Tom,Thomas Clifford,1890-11-13,1955-06-06
+findagrave/1005,,Clevenger,Zora,Zora G.,1881-12-21,1970-11-24
+findagrave/1006,,Sanders,Malone,Battle Malone,1917-10-23,1961-01-27
+findagrave/1007,,Hulin,Henry,Henry Valentine,1860-12-11,1943-06-10
+findagrave/1008,,Hoffman,Jack,Jack Hersh,1921-11-24,1940-09-28
+findagrave/1009,,Nance,Clyde,Clyde Lonzie,1907-04-06,1929-03-31
+findagrave/1010,,Oliger,Edward,Edward C.,1942-10-11,2008-09-22
+findagrave/1011,,Radabaugh,Ralph,Ralph A.,1912-08-30,2002-07-15
+findagrave/1012,,Malott,Joe,Joseph Anton,1929-05-08,2014-09-13
+findagrave/1013,,Reisch,Martin,Martin C.,1924,2009
+findagrave/1014,,Fitzgerald,Wayne,Donald Wayne,1929-09-11,2015-06-28
+findagrave/1015,,DeVormer,Oral,Oral Albert,1917-09-16,1939-07-21
+findagrave/1016,,Hardcastle,Hubert,Hubert W.,,1983-04-10
+findagrave/1017,,Garten,Bill,William Lacy,1928-06-09,2008-05-02
+findagrave/1018,,Geiger,Gary,Gary Wayne,1964-10-30,2012-06-28
+findagrave/1019,,Jones,Kevin,Kevin Don,1968-03-23,2012-09-20
+findagrave/1020,,Hankins,William,William Rush,1913-07-28,1967-07-25
+findagrave/1021,,Holland,,Joseph Gordon,1884-12-08,1955-12-08
+findagrave/1022,,Kluttz,,Alvin Clifton,1922-01-13,1985-05-26
+findagrave/1023,,Alton,Stewart,Stewart John,1930-01-16,2009-12-26
+findagrave/1024,,DeGeer,Bill,Bill B.,1928-04-18,2010-12-24
+findagrave/1025,,Priest,,Morey Jordan,1891-11-25,1934-07-27
+findagrave/1026,,Fleharty,Earl,Earl L.,1886,1956-03-22
+findagrave/1027,,Reed,George,George Miles,1870-09-13,1947-05-13
+findagrave/1028,,Rougeux,,Walter Louis,1922-05-09,1945-05-12

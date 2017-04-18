@@ -1,0 +1,17 @@
+key-findagrave: 49711297
+
+name-last: Alton
+name-first: Stewart
+name-given: Stewart John
+name-suffix: Jr.
+ 
+birth-date: 1930-01-16
+birth-place: US, NY, Watertown
+ 
+death-date: 2009-12-26
+death-place:  US, NC, Manteo
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Cremated

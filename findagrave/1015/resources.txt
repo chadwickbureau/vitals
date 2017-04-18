@@ -1,0 +1,9 @@
+source-title: Find A Grave page for Oral DeVormer
+source-date: 2016-09-22
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=65810276&amp;ref=acom
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-09-09
+contributor-email: timcopeland64@gmail.com
+ 

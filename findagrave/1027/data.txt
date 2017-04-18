@@ -1,0 +1,12 @@
+key-findagrave: 64053916
+ 
+name-last: Reed
+name-first: George
+name-given: George Miles
+ 
+birth-date: 1870-09-13
+ 
+death-date: 1947-05-13
+ 
+cemetery-name: Sunset Memorial Park
+cemetery-place: US, NM, Albuquerque

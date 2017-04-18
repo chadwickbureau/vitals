@@ -1,0 +1,9 @@
+source-title: Find A Grave page for Gary Wayne Geiger
+source-date: 2016-07-17
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=92770564
+ 
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-17

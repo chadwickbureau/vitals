@@ -1,0 +1,9 @@
+source-title: Find A Grave page for Clyde Nance
+source-date: 2016-12-20
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Nance&GSfn=Clyde&GSbyrel=all&GSdyrel=all&GSob=n&GRid=70832440&df=all&
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-20
+ 

@@ -1,0 +1,13 @@
+name-last: Fleharty
+name-first: Earl
+name-given: Earl Leroy
+ 
+birth-date: 1886-07-26
+ 
+death-date: 1956-03-22
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I from #1918-03-28 to 1919-01-20
+ 
+cemetery-place: US, MO, Harwood

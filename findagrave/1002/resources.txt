@@ -1,0 +1,8 @@
+source-title: Charles Fulton page on Find A Grave
+source-date: 2017-02-27
+source-url: https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=117242827&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-27

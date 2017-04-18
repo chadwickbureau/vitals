@@ -1,0 +1,14 @@
+key-findagrave: 87284775
+ 
+name-last: Hulin
+name-first: Henry
+name-given: Henry Valentine
+ 
+birth-date: 1860-12-11
+birth-place: CA, ,
+ 
+death-date: 1943-06-10
+death-place:  US, CA, Sacramento
+ 
+cemetery-name: Woodland Cemetery
+cemetery-place: US, CA, Woodland

@@ -1,0 +1,5 @@
+name-last: Honig
+name-given: John D.
+ 
+birth-date: 1895-01-05
+birth-place: US, VA, Suffolk

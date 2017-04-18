@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Jack Hoffman
+source-date: 2016-12-22
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Hoffman&GSfn=Jack&GSby=1921&GSbyrel=in&GSdy=1940&GSdyrel=in&GSob=n&GRid=103858438&df=all&
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-12-22

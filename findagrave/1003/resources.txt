@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Dale Hackett
+source-date: 2017-02-03
+source-url: https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=108784323&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-02-03

@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Hubert Hardcastle
+source-date: 2016-08-25
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=162161908&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-08-25

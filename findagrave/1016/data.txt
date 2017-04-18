@@ -1,0 +1,12 @@
+key-findagrave: 162161908
+ 
+name-last: Hardcastle
+name-first: Hubert
+name-given: Hubert W.
+name-nick: Lefty
+ 
+death-date: 1983-04-10
+death-place: US, TN,
+ 
+cemetery-name: Forest Lawn Memorial Gardens
+cemetery-place: US, TN, Goodlettsville

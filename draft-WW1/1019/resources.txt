@@ -1,0 +1,8 @@
+source-title: Frank Goalby’s WWI registration card
+source-file-name: 30955_165794-05040.jpg
+source-file-type: application/jpg
+ 
+contributor-last:  Copeland
+contributor-first: Tim
+contributor-date:  2016-02-27
+contributor-email: timcopeland64@gmail.com

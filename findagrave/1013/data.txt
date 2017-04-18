@@ -1,0 +1,16 @@
+key-findagrave: 106289024
+ 
+name-last: Reisch
+name-first: Martin
+name-given: Martin C.
+ 
+birth-date: 1924
+ 
+death-date: 2009
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Dallas-Fort Worth National Cemetery
+cemetery-place: US, TX, Dallas

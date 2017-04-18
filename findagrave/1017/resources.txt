@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Bill Garten
+source-date: 2016-07-25
+source-url: http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=103856526&ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2016-07-25

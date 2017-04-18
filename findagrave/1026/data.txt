@@ -1,0 +1,15 @@
+key-findagrave: 31630241
+ 
+name-last: Fleharty
+name-first: Earl
+name-given: Earl L.
+ 
+birth-date: 1886
+ 
+death-date: 1956-03-22
+death-place:  US, MO, Nevada
+ 
+meta-throws: Right
+ 
+cemetery-name: Green Mound Cemetery
+cemetery-place: US, MO, Harwood

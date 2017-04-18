@@ -1,0 +1,15 @@
+key-ssn:  402-46-1364
+ 
+name-last: Espie
+name-first:  David
+name-given: David A.
+name-suffix: Sr.
+ 
+birth-date: 1901-09-11
+birth-place: US, KY, Kuttawa
+ 
+death-date: 1961-03-25
+death-place: US, KY, Louisville
+ 
+cemetery-name:  Kuttawa Cemetery
+cemetery-place: US, KY, Kuttawa

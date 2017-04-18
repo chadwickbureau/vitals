@@ -1,0 +1,14 @@
+key-findagrave: 92770564
+ 
+name-last: Geiger
+name-first: Gary
+name-given: Gary Wayne
+ 
+birth-date: 1964-10-30
+birth-place: US, IL, Murphysboro
+ 
+death-date: 2012-06-28
+death-place:  US, OK, Tulsa
+ 
+cemetery-name: Floral Haven Memorial Gardens
+cemetery-place: US, OK, Broken Arrow

@@ -1,0 +1,15 @@
+key-findagrave: 150896631
+
+name-last: Rougeux
+name-given: Walter Louis
+ 
+birth-date: 1922-05-09
+ 
+death-date: 1945-05-12
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, PA, Clearfield

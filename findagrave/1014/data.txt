@@ -1,0 +1,25 @@
+key-findagrave: 155764827
+ 
+name-last: Fitzgerald
+name-first: Wayne
+name-given: Donald Wayne
+ 
+birth-date: 1929-09-11
+birth-place: US, TX, Sherwin
+ 
+death-date: 2015-06-28
+death-place:  US, TX, Highland Village
+ 
+school-level: secondary
+school-name:  Cherokee County Community HS
+school-place: US, KS, Columbus
+ 
+school-level: college
+school-name: Kansas State University
+ 
+military-country: US
+military-branch:  Air Force
+military-conflict:  Korean War
+ 
+cemetery-name: Park Cemetery
+cemetery-place: US, KS, Columbus

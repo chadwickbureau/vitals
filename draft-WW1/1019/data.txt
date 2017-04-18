@@ -1,0 +1,6 @@
+name-last: Goalby
+name-first: Frank
+name-given: Frank John
+ 
+birth-date: 1890-01-18
+birth-place: US, IL, Gillespie
