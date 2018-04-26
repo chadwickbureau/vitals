@@ -1,0 +1,16 @@
+key-findagrave: 121398717
+ 
+name-last: Ferris
+name-first: Ernest
+name-given: Ernest Hayes
+name-suffix: Sr.
+ 
+birth-date: 1888-07-12
+birth-place: US, NY,
+ 
+death-date: 1973-06-16
+death-place:  US, NC, Greensboro
+ 
+cemetery-name: Forest Lawn Cemetery
+cemetery-place: US, NC, Greensboro
+

@@ -1,0 +1,15 @@
+key-findagrave: 102055670
+ 
+name-last: Howell
+name-first: Linwood
+name-given: Linwood Henry
+name-nick: Teenie
+name-suffix: Jr.
+ 
+birth-date: 1922-03-30
+ 
+death-date: 1954-06-09
+ 
+cemetery-name: Mt. Carmel Christian Church Cemetery
+cemetery-place: US, VA, Walters
+

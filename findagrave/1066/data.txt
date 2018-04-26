@@ -1,0 +1,13 @@
+key-findagrave: 48712142
+ 
+name-last: Dellinger
+name-first: Hoke
+name-given: Hoke E.
+ 
+birth-date: 1895-01-23
+ 
+death-date: 1923-10-13
+ 
+cemetery-name: cool Springs United Methodist Church Cemetery
+cemetery-place: US, GA, Clarkesville
+

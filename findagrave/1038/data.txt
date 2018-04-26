@@ -1,0 +1,15 @@
+key-findagrave: 160287825
+ 
+name-last: Pjura
+name-first: John Michael
+name-given: Pjura
+name-suffix: Sr.
+ 
+birth-date: 1893-02-16
+birth-place: US, CT, Bridgeport
+ 
+death-date: 1976-02-29
+death-place:  US, CT, Bridgeport
+ 
+cemetery-name: St. Michael’s Cemetery
+cemetery-place: US, CT, Stratford

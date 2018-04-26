@@ -1,0 +1,14 @@
+key-findagrave: 116856793
+
+name-last: Fesperman
+name-first: Harvey
+name-given: Harvey Augusta
+ 
+birth-date: 1892-10-11
+birth-place: US, NC,
+ 
+death-date: 1972-03-09
+death-place:  US, NC, Salisbury
+ 
+cemetery-name: Shiloh Reformed Church Cemetery
+cemetery-place: US, NC, Faith

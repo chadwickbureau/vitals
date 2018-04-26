@@ -1,0 +1,15 @@
+key-findagrave: 140419972
+ 
+name-last: Anderson
+name-first: Harry
+name-given: Harry Lee
+ 
+birth-date: 1902-01-26
+birth-place: US, NC, Madison County
+ 
+death-date: 1974-12-17
+death-place:  US, NC, Asheville
+ 
+cemetery-name: Mars Hill Cemetery
+cemetery-place: US, NC, Mars Hill
+ 

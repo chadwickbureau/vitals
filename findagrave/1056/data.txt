@@ -1,0 +1,17 @@
+key-findagrave: 22247581
+ 
+name-last: Yarger
+name-first: Dennis
+name-given: Dennis Junior
+ 
+birth-date: 1919-05-28
+ 
+death-date: 1986-10-23
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II
+ 
+cemetery-name: Lakeview Cemetery
+cemetery-place: US, MI, Nashville
+

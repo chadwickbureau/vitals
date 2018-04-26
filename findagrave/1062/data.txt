@@ -1,0 +1,13 @@
+key-findagrave: 102085344
+ 
+name-last: Goldstein
+name-first: Hyman
+name-given: Hyman
+ 
+birth-date: 1891
+ 
+death-date: 1982
+ 
+cemetery-name: Westminster Memorial Gardens
+cemetery-place: US, PA, Carlisle
+

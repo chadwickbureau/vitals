@@ -1,0 +1,9 @@
+source-title: Earl Hahn SSDI
+source-file-name: Earl Hahn SSDI.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-21
+

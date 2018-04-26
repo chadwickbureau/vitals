@@ -1,0 +1,10 @@
+source-title: Charles Vallandingham WWII card
+source-file-name: Vallandingham WWII card.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-26
+ 
+

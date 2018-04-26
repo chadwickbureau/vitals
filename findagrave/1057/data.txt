@@ -1,0 +1,13 @@
+key-findagrave: 28823038
+ 
+name-last: Yeagle
+name-first: James
+name-given: James E.
+ 
+birth-date: 1926
+ 
+death-date: 1989
+ 
+cemetery-name: Ashland Cemetery
+cemetery-place: US, OH, Ashland
+

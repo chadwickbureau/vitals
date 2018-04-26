@@ -1,0 +1,13 @@
+key-findagrave: 181067609
+ 
+name-last: Beagle
+name-first: Harold
+name-given: Harold E.
+ 
+birth-date: 1906-02-02
+ 
+death-date: 1974-02-20
+ 
+cemetery-name: St. Mary Cemetery
+cemetery-place: US, CT, New Britain
+

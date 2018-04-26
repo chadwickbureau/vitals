@@ -1,0 +1,17 @@
+key-findagrave: 5438818
+ 
+name-last: Tidwell
+name-first: Donny
+name-given: Donny Gay
+ 
+birth-date: 1947-04-02
+ 
+death-date: 1968-04-12
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  Vietnam War
+ 
+cemetery-name: Mattox Cemetery
+cemetery-place: US, TX, Diana
+

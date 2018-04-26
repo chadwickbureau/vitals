@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Albert Buege
+source-date: 2018-01-28
+source-url: https://www.findagrave.com/memorial/125507142
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-28

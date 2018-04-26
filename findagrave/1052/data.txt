@@ -1,0 +1,17 @@
+key-findagrave: 70497089
+ 
+name-last: Kough
+name-first: Ned
+name-given: Ned DeHaven
+ 
+birth-date: 1924-03-17
+ 
+death-date: 1980-05-22
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Saltillo Cemetery
+cemetery-place: US, PA, Saltillo
+

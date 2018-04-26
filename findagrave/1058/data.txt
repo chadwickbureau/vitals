@@ -1,0 +1,15 @@
+key-findagrave: 41345355
+ 
+name-last: Reiney
+name-first: Senter
+name-given: Senter Wilson
+ 
+birth-date: 1880-06-01
+birth-place: US, TN, Humboldt
+ 
+death-date: 1931-07-08
+death-place:  US, MO, Caruthersville
+ 
+cemetery-name: Little Prairie Cemetery
+cemetery-place: US, MO, Caruthersville
+

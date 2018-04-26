@@ -1,0 +1,12 @@
+name-last: Armitage
+name-first: William
+name-given: William H.
+ 
+birth-date: 1868-11-06
+birth-place: US, KY, Louisville
+ 
+death-date: 1948-06-29
+death-place:  US, IN, Indianapolis
+ 
+cemetery-name: Crown Hill Cemetery
+cemetery-place: US, IN, Indianapolis

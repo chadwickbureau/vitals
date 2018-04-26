@@ -1,0 +1,15 @@
+key-findagrave: 177984295
+ 
+name-last: Gaskell
+name-first: Prince
+name-given: Prince Douglas
+ 
+birth-date: 1885-03-31
+birth-place: US, TX, Waxahachie
+ 
+death-date: 1966-04-17
+death-place:  US, LA, Shreveport
+ 
+cemetery-name: Forest Park East Cemetery
+cemetery-place: US, LA, Shreveport
+

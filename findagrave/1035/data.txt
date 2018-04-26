@@ -1,0 +1,15 @@
+key-findagrave: 166299919
+ 
+name-last: Blaylock
+name-first: Jack
+name-given: Jack Wanda
+ 
+birth-date: 1925-02-11
+birth-place: US, NC, Guilford County
+ 
+death-date: 2016-04-14
+death-place:  US, NC, Oak Ridge
+ 
+cemetery-name: Eastlawn Gardens of Memory
+cemetery-place: US, NC, Kernersville
+ 

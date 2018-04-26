@@ -1,0 +1,15 @@
+name-last: Ratliff
+name-first: Carlos
+name-given: Carlos Clayton
+ 
+birth-date: 1910-10-18
+ 
+death-date: 1961-10-03
+death-place:  US, WV, Morgantown
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War II from #1943-08-05 to 1946-04-15
+ 
+cemetery-name: Weston Masonic Cemetery
+cemetery-place: US, WV, Weston

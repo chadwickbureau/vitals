@@ -1,0 +1,8 @@
+source-title: Find a Grave page for Lona Jaynes
+source-date: 2017-05-07
+source-url: https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=29367550&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-07

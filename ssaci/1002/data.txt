@@ -1,0 +1,11 @@
+key-ssn: 212052363
+ 
+name-last: Smithson
+name-first: Robert
+name-given: Robert Edward
+ 
+birth-date: 1917-04-09
+birth-place: US, MD, St. Denis
+ 
+death-date: 1978-02
+

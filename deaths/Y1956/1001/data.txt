@@ -1,0 +1,15 @@
+key-ssn: 170074083
+ 
+name-last: Graeff
+name-first: Reginald
+name-given: Reginald H.
+ 
+birth-date: 1907-12-08
+birth-place: US, PA, Lebanon
+ 
+death-date: 1956-03-13
+death-place:  US, PA, Reading
+ 
+cemetery-name: Charles Evans Cemetery
+cemetery-place: US, PA, Reading
+ 

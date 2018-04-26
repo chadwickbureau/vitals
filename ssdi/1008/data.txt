@@ -1,0 +1,8 @@
+key-ssn: 178-09-9130
+ 
+name-last: Osoba
+name-first: George
+ 
+birth-date: 1889-04-11
+ 
+death-date: 1967-02

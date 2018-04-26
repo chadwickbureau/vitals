@@ -1,0 +1,9 @@
+source-title: Robert Smithson SSACI
+source-file-name: Robert Smithson SSACI.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-29
+

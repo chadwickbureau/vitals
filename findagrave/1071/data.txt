@@ -1,0 +1,13 @@
+key-findagrave: 80936931
+ 
+name-last: Thierolf
+name-first: Floyd
+name-given: Floyd H.
+ 
+birth-date: 1919-11-13
+ 
+death-date: 1987-10-22
+ 
+cemetery-name: Calvary Cemetery
+cemetery-place: US, NE, Fremont
+

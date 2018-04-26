@@ -1,0 +1,9 @@
+name-last: Allen
+name-first: Archie
+name-given: Archie Patrick
+ 
+birth-date: 1913-03-18
+birth-place: US, MA, Pittsfield
+ 
+death-date: 2006-11-01
+ 

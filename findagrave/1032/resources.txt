@@ -1,0 +1,8 @@
+source-title: Find A Grave page for George Boelzle
+source-date: 2017-05-30
+source-url: https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=94510166&amp;ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-30

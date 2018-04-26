@@ -1,0 +1,11 @@
+key-findagrave: 170948434
+ 
+name-last: Seaman
+name-first: Louis
+name-given: Louis J.
+ 
+death-date: 1943-07-06
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, NY, Brooklyn
+

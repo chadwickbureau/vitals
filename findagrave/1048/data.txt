@@ -1,0 +1,11 @@
+key-findagrave: 174046073
+ 
+name-last: Gravino
+name-first: Frank
+name-given: Frank J.
+ 
+death-date: 1994-04-05
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, NY, Rochester
+

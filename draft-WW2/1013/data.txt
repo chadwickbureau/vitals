@@ -1,0 +1,10 @@
+name-last: Seasholtz
+name-first: Donald
+name-given: George Donald
+ 
+birth-date: 1900-11-04
+birth-place: US, PA, Pottstown
+ 
+meta-height: 69
+meta-weight: 195
+

@@ -1,0 +1,13 @@
+name-last: Wilson
+name-first: Fred
+name-given: Fred
+ 
+birth-date: 1873-10-10
+birth-place: US, IL,
+ 
+death-date: 1950-10-08
+death-place:  US, IN, Michigan City
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, IN, Michigan City
+

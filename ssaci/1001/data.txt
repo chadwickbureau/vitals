@@ -1,0 +1,11 @@
+key-ssn: 266035800
+ 
+name-last: Weir
+name-first: Lemuel
+name-given: Lemuel Sam
+ 
+birth-date: 1889-11-28
+birth-place: US, SC, Fairmont
+ 
+death-date: 1951-06-28
+

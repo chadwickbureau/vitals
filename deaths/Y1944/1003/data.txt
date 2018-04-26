@@ -1,0 +1,15 @@
+key-ssn: 164057490
+ 
+name-last: King
+name-first: Frank
+name-given: Frank Joseph
+ 
+birth-date: 1880-09-15
+birth-place: US, PA, Philadelphia
+ 
+death-date: 1944-10-29
+death-place:  US, PA, Philadelphia
+ 
+cemetery-name: Westminster
+cemetery-place: US, PA, Bala Cynwyd
+

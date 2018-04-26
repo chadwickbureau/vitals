@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Charles Joplin
+source-date: 2017-05-07
+source-url: https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=55947476&ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-05-07

@@ -1,0 +1,15 @@
+key-findagrave: 143942085
+ 
+name-last: Thompson
+name-first: Jack
+name-given: Jack Carl
+ 
+birth-date: 1936-03-14
+birth-place: US, MO, St. Joseph
+ 
+death-date: 2015-03-18
+death-place:  US, TX, Dallas
+ 
+cemetery-name: St. James Episcopal Church Columbarium
+cemetery-place: US, TX, Dallas
+

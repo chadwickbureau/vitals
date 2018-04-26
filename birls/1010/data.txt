@@ -1,0 +1,13 @@
+key-ssn: 212052363
+ 
+name-last: Smithson
+name-first: Robert
+ 
+birth-date: 1917-04-09
+ 
+death-date: 1978-02-06
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1943-09-13 to 1945-12-28
+

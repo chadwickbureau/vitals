@@ -1,0 +1,7 @@
+name-last: Roemele
+name-first: Carl
+name-given: Carl Francis
+ 
+birth-date: 1901-01-17
+birth-place: US, KY, Louisville
+

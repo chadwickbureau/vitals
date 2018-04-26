@@ -1,0 +1,9 @@
+source-title: Lloyd Downey Social Security Death Index
+source-file-name: Lloyd Downey SSDI.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-11
+

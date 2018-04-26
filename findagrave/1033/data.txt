@@ -1,0 +1,12 @@
+key-findagrave: 290316
+
+name-last: Anfinson
+name-first: Edwin
+name-given: Edwin Naphtoli
+ 
+birth-date: 1895-07-14
+ 
+death-date: 1975-01-17
+ 
+cemetery-name: Golden Gate National Cemetery
+cemetery-place: US, CA, San Bruno

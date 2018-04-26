@@ -1,0 +1,19 @@
+key-findagrave: 55947476
+ 
+name-last: Joplin
+name-first: Charles
+name-given: Charles West
+ 
+death-date: 1918-06-21
+death-place:  FR
+ 
+school-level: college
+school-name: University of Alabama
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Aisne-Marne American Cemetery and Memorial
+cemetery-place: FR, Picardie, Belleau
+

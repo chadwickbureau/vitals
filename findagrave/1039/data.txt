@@ -1,0 +1,8 @@
+key-findagrave: 17342323
+ 
+name-last: Armitage
+name-first: William
+name-given: William H.
+ 
+cemetery-name: Crown Hill Cemetery
+cemetery-place: US, IN, Indianapolis

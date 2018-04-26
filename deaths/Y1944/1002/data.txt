@@ -1,0 +1,15 @@
+key-ssn: 159127337
+ 
+name-last: Roemele
+name-first: Carl
+name-given: Carl F.
+ 
+birth-date: 1901-01-17
+birth-place: US, KY, Louisville
+ 
+death-date: 1944-07-24
+death-place: US, PA, Pittsburgh
+ 
+cemetery-name: Mt. Royal Cemetery
+cemetery-place: US, PA, Glenshaw
+

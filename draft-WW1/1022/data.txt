@@ -1,0 +1,7 @@
+name-last: Wells
+name-first: Aubie
+name-given: Aubie Bertram
+ 
+birth-date: 1894-08-07
+birth-place: US, NC, Charlotte
+

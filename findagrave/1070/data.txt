@@ -1,0 +1,15 @@
+key-findagrave: 125507142
+ 
+name-last: Buege
+name-first: Albert
+name-given: Albert W.
+name-suffix: Sr.
+ 
+birth-date: 1875
+ 
+death-date: 1958-05
+death-place:  US, WI,
+ 
+cemetery-name: Pioneers’ Rest Cemetery
+cemetery-place: US, WI, Two Rivers
+

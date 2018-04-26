@@ -1,0 +1,6 @@
+name-last: Sheedy
+name-first: Clayton
+name-given: Clayton McGowan
+ 
+birth-date: 1898-07-26
+birth-place: US, MA, Groton

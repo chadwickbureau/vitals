@@ -1,0 +1,7 @@
+name-last: Osoba
+name-first: George
+name-given: George Washington
+ 
+birth-date: 1889-04-11
+birth-place: US, NY, New York
+

@@ -1,0 +1,13 @@
+name-last: Vallandingham
+name-first: Charles
+name-given: Charles
+ 
+birth-date: 1891-05-02
+birth-place: US, KY, Sunrise
+ 
+death-date: 1949-04-29
+death-place:  US, KY, Covington
+ 
+cemetery-name: Winchester Cemetery
+cemetery-place: US, KY, Winchester
+

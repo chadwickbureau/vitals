@@ -1,0 +1,15 @@
+key-ssn: 175030023
+ 
+name-last: Seasholtz
+name-first: Donald
+name-given: G. Donald
+ 
+birth-date: 1900-11-04
+birth-place: US, PA, Pottstown
+ 
+death-date: 1945-04-11
+death-place:  US, PA, Pottstown
+ 
+cemetery-name: Pottstown Cemetery
+cemetery-place: US, PA, Pottstown
+

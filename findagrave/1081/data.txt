@@ -1,0 +1,13 @@
+key-findagrave: 134331180
+ 
+name-last: Downey
+name-first: Lloyd
+name-given: Lloyd Earl
+ 
+birth-date: 1886-09-10
+ 
+death-date: 1963
+ 
+cemetery-name: New South Park Cemetery
+cemetery-place: US, IN, Martinsville
+

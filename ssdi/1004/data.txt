@@ -1,0 +1,9 @@
+key-ssn: 488019167
+ 
+name-last: Hahn
+name-first: Earl
+ 
+birth-date: 1915-07-11
+ 
+death-date: 1979-11-05
+

@@ -1,0 +1,13 @@
+key-findagrave: 166610538
+ 
+name-last: Seasholtz
+name-first: Donald
+name-given: Donald
+ 
+birth-date: 1900
+ 
+death-date: 1945
+ 
+cemetery-name: Pottstown Cemetery
+cemetery-place: US, PA, Pottstown
+

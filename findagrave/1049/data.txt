@@ -1,0 +1,15 @@
+key-findagrave: 157822292
+ 
+name-last: Correll
+name-first: Milton
+name-given: Milton Lee
+ 
+birth-date: 1893-05-01
+birth-place: US, NC, Scotland County
+ 
+death-date: 1956-07-15
+death-place:  US, NC, Maxton
+ 
+cemetery-name: Oak Grove Cemetery
+cemetery-place: US, NC, Maxton
+

@@ -1,0 +1,10 @@
+key-ssn: 150018105
+ 
+name-last: Ambrose
+name-first: Philip
+name-given: Philip J.
+ 
+birth-date: 1903-11-17
+ 
+death-date: 1988-03-22
+

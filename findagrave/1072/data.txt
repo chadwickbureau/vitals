@@ -1,0 +1,19 @@
+key-findagrave: 158726543
+ 
+name-last: Tominsky
+name-first: Thomas
+name-given: Thomas J.
+ 
+birth-date: 1920-08-06
+birth-place: US, MA, Milford
+ 
+death-date: 2003-05-30
+death-place:  US, MA, Milford
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, MA, Milford
+

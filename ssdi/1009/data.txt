@@ -1,0 +1,8 @@
+name-last: Okrie
+name-first: Frank
+name-given: Frank R.
+ 
+birth-date: 1921-08-31
+ 
+death-date: 2013-11-03
+

@@ -1,0 +1,7 @@
+name-last: Kennedy
+name-first: Elwin
+name-given: Elwin H.
+ 
+birth-date: 1892-04-22
+birth-place: US, KY, Bellevue
+

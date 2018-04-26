@@ -1,0 +1,21 @@
+key-findagrave: 29367550
+
+name-last: Jaynes
+name-first: Lona
+name-given: Lona Alvin
+ 
+birth-date: 1892-06-04
+birth-place: US, NC, Morganton
+ 
+death-date: 1976-10-28
+death-place:  US, TX, Bonham
+ 
+school-level: college
+school-name: North Carolina State University
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I
+ 
+cemetery-name: Duplex Cemetery
+cemetery-place: US, TX, Ivanhoe

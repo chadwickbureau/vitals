@@ -1,0 +1,13 @@
+key-findagrave: 135582862
+ 
+name-last: Briganti
+name-first: Louis
+name-given: Louis N.
+ 
+birth-date: 1916
+ 
+death-date: 1962
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NY, Fremont
+

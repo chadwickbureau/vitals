@@ -1,0 +1,7 @@
+name-last: Zibell
+name-first: George
+name-given: George William
+ 
+birth-date: 1890-09-09
+birth-place: US, PA, Philadelphia
+

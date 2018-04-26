@@ -1,0 +1,15 @@
+key-findagrave: 46349114
+ 
+name-last: Klinkert
+name-first: Harold
+name-given: Harold P.
+ 
+birth-date: 1913-04-20
+birth-place: US, NY, Rochester
+ 
+death-date: 1978-03-20
+death-place: US, IL, Clinton
+ 
+cemetery-name: Woodlawn Cemetery
+cemetery-place: US, IL, Clinton
+

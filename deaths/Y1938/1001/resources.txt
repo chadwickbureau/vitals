@@ -1,0 +1,9 @@
+source-title: Elmer Poss IL Death Index
+source-file-name: Elmer Poss IL Death Index.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-05
+

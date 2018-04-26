@@ -1,0 +1,14 @@
+key-ssn: 155071725
+ 
+name-last: Litwa
+name-first: Alfred
+name-given: Alfred
+ 
+birth-date: 1922-05-16
+ 
+death-date: 1986-01-05
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1943-05-24 to 1946-01-08
+

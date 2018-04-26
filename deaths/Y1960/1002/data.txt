@@ -1,0 +1,15 @@
+key-ssn: 559188157
+ 
+name-last: Casbier
+name-first: Red
+name-given: Noel Elwood
+ 
+birth-date: 1916-11-09
+birth-place: US, AR, Lexa
+ 
+death-date: 1960-03-03
+death-place:  US, NC, Mooresville
+ 
+cemetery-name: Sherwood Cemetery
+cemetery-place: US, VA, Salem
+

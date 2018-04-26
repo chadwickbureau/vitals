@@ -1,0 +1,13 @@
+key-findagrave: 72409642
+ 
+name-last: Hahn
+name-first: Earl
+name-given: Earl W.
+ 
+birth-date: 1915-07-11
+ 
+death-date: 1979-11-05
+ 
+cemetery-name: Sunset Memorial Park and Mausoleum
+cemetery-place: US, MO, Affton
+

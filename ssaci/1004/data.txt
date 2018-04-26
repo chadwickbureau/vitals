@@ -1,0 +1,11 @@
+key-ssn: 098098023
+ 
+name-last: Seaman
+name-first: Louis
+name-given: Louis Joseph
+ 
+birth-date: 1897-07-09
+birth-place:  US, NY, Brooklyn
+ 
+death-date: 1943-07-06
+

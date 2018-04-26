@@ -1,0 +1,11 @@
+key-findagrave: 57246802
+ 
+name-last: Wilson
+name-first: Fred
+name-given: Fred
+ 
+death-date: 1950-10-08
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, IN, Michigan City
+

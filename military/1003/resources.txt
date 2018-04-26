@@ -1,0 +1,8 @@
+source-title: Briganti military tombstone request
+source-file-name: Briganti military tombstone request.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-12

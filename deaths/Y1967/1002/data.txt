@@ -1,0 +1,13 @@
+name-last: Newman
+name-first: John
+name-given: John Urquhart
+ 
+birth-date: 1894-01-03
+birth-place: US, NC, Alamance County
+ 
+death-date: 1967-04-08
+death-place:  US, NC, Raleigh
+ 
+cemetery-name: Hillcrest Cemetery
+cemetery-place: US, NC, Cary
+

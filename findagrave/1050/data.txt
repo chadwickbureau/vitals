@@ -1,0 +1,14 @@
+key-findagrave: 183332246
+ 
+name-last: Smithson
+name-first: Robert
+name-given: Robert E.
+ 
+birth-date: 1917-04-09
+ 
+death-date: 1978-02-06
+death-place: US, MD,
+ 
+cemetery-name: Meadowridge Memorial Park
+cemetery-place: US, MD, Elkridge
+

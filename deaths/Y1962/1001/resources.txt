@@ -1,0 +1,9 @@
+source-title: George Corrigan death certificate
+source-file-name: George Corrigan death certificate.pdf
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-08
+

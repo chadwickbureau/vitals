@@ -1,0 +1,10 @@
+key-ssn: 314147418
+ 
+name-last: Downey
+name-first: Lloyd
+name-given: Lloyd Earl
+ 
+birth-date: 1886-09-10
+ 
+death-date: 1963-06-04
+

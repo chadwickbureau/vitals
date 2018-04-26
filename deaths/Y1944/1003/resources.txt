@@ -1,0 +1,9 @@
+source-title: Frank King PA DC
+source-file-name: Frank King PA DC.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-19
+

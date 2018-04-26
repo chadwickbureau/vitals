@@ -1,0 +1,12 @@
+name-last: Goldstein
+name-first: Hyman
+name-given: Hyman
+ 
+birth-date: 1891-01-14
+ 
+death-date: 1982-06-07
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War I from #1918-01-12 to 1918-07-04
+

@@ -1,0 +1,19 @@
+key-findagrave: 144127678
+ 
+name-last: Olix
+name-first: Donald
+name-given: Donald J.
+ 
+birth-date: 1915-03-23
+birth-place: US, OH,
+ 
+death-date: 1989-06-29
+death-place:  US, OH, Painesville
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: Riverside Cemetery
+cemetery-place: US, OH, Painesville
+

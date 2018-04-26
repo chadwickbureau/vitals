@@ -1,0 +1,13 @@
+key-findagrave: 104591266
+ 
+name-last: Burman
+name-first: John
+name-given: John L.
+ 
+birth-date: 1916-10-31
+ 
+death-date: 1985-11-03
+ 
+cemetery-name: St. Joseph Cemetery
+cemetery-place: US, OH, Cincinnati
+

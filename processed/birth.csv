@@ -1,0 +1,216 @@
+date,pdate,place,source,person
+1926-04-09,,,birls/1001,_subject
+1926-05-21,,,birls/1002,_subject
+1920-08-09,,,birls/1004,_subject
+1920-12-05,,,birls/1005,_subject
+1919-08-17,,,birls/1006,_subject
+1921-05-02,,,birls/1007,_subject
+1923-04-16,,,birls/1008,_subject
+1916-04-26,,,birls/1009,_subject
+1917-04-09,,,birls/1010,_subject
+1922-05-16,,,birls/1011,_subject
+1925-12-06,,,birls/1012,_subject
+1891-01-14,,,birls/1013,_subject
+1889-03-20,,"US, CT, Waterbury",draft-WW1/1001,_subject
+1897-07-09,,"US, NY, Brooklyn",draft-WW1/1002,_subject
+1899-09-03,,,draft-WW1/1003,_subject
+1892-03-06,,"US, TX, Gilmer",draft-WW1/1004,_subject
+1891-07-26,,"CA, QC, Saint-Joseph-de-Sorel",draft-WW1/1005,_subject
+1891-05-17,,"US, TX, Gonzales County",draft-WW1/1006,_subject
+1890-04-08,,"US, OH, Walnut Creek",draft-WW1/1007,_subject
+1873-04-02,,"US, IN, McCordsville",draft-WW1/1008,_subject
+1899-02-23,,,draft-WW1/1009,_subject
+1890-04-09,,"US, IL, Chicago",draft-WW1/1010,_subject
+1891-03-07,,"US, PA, Newport",draft-WW1/1011,_subject
+1890-05-18,,"US, PA, Baldwin Township",draft-WW1/1012,_subject
+1888-02-08,,"US, PA, Carlisle",draft-WW1/1013,_subject
+1890-08-13,,"US, SC, Charleston",draft-WW1/1014,_subject
+1890-07-23,,"US, OH, Columbus",draft-WW1/1015,_subject
+1884-02-17,,"US, KS, Chetopa",draft-WW1/1016,_subject
+1889-12-23,,"US, TX, Waco",draft-WW1/1017,_subject
+1894-07-20,,"US, VA, Petersburg",draft-WW1/1018,_subject
+1890-01-18,,"US, IL, Gillespie",draft-WW1/1019,_subject
+1873-11-05,,,draft-WW1/1020,_subject
+1890-09-09,,"US, PA, Philadelphia",draft-WW1/1021,_subject
+1894-08-07,,"US, NC, Charlotte",draft-WW1/1022,_subject
+1895-03-09,,"US, NC, Hickory",draft-WW1/1023,_subject
+1892-04-22,,"US, KY, Bellevue",draft-WW1/1024,_subject
+1889-04-11,,"US, NY, New York",draft-WW1/1025,_subject
+1883-08-22,,"US, OH, Lawrence",draft-WW2/1001,_subject
+1883-11-10,,"US, CT, Litchfield",draft-WW2/1002,_subject
+1887-08-23,,"US, TN, Joelton",draft-WW2/1003,_subject
+1906-04-17,,"US, MS, Hazlehurst",draft-WW2/1004,_subject
+1886-12-24,,"US, TX, Chatfield",draft-WW2/1005,_subject
+1909-02-27,,"US, GA, Athens",draft-WW2/1006,_subject
+1885-08-02,,"US, IL, Paris",draft-WW2/1007,_subject
+1894-11-30,,"US, NC, Salisbury",draft-WW2/1008,_subject
+1916-04-22,,"US, SC, York County",draft-WW2/1009,_subject
+1889-07-23,,"US, OH, Columbus",draft-WW2/1010,_subject
+1881-12-21,,"US, IN, Randolph County",draft-WW2/1011,_subject
+1901-01-17,,"US, KY, Louisville",draft-WW2/1012,_subject
+1900-11-04,,"US, PA, Pottstown",draft-WW2/1013,_subject
+1887-05-02,,"US, KY, Pendleton County",draft-WW2/1014,_subject
+1923-12-07,,,findagrave/1001,_subject
+1892-01-01,,,findagrave/1002,_subject
+1918-09-18,,,findagrave/1003,_subject
+1890-11-13,,"US, MS, Vaiden",findagrave/1004,_subject
+1881-12-21,,"US, IN,  Muncie",findagrave/1005,_subject
+1917-10-23,,"US, TX, Corsicana",findagrave/1006,_subject
+1860-12-11,,"CA, ,",findagrave/1007,_subject
+1921-11-24,,,findagrave/1008,_subject
+1907-04-06,,"US, WA, Freeman",findagrave/1009,_subject
+1942-10-11,,,findagrave/1010,_subject
+1912-08-30,,"US, OH, Ottawa",findagrave/1011,_subject
+1929-05-08,,"US, MO, Kansas City",findagrave/1012,_subject
+1924,,,findagrave/1013,_subject
+1929-09-11,,"US, TX, Sherwin",findagrave/1014,_subject
+1917-09-16,,"US, MI, Grand Rapids",findagrave/1015,_subject
+1928-06-09,,"US, WV, Fayette County",findagrave/1017,_subject
+1964-10-30,,"US, IL, Murphysboro",findagrave/1018,_subject
+1968-03-23,,"US, OK, Tulsa",findagrave/1019,_subject
+1913-07-28,,,findagrave/1020,_subject
+1884-12-08,,,findagrave/1021,_subject
+1922-01-13,,,findagrave/1022,_subject
+1930-01-16,,"US, NY, Watertown",findagrave/1023,_subject
+1928-04-18,,,findagrave/1024,_subject
+1891-11-25,,"US, TN,",findagrave/1025,_subject
+1886,,,findagrave/1026,_subject
+1870-09-13,,,findagrave/1027,_subject
+1922-05-09,,,findagrave/1028,_subject
+1892-10-11,,"US, NC,",findagrave/1029,_subject
+1892-06-04,,"US, NC, Morganton",findagrave/1030,_subject
+1889-02-08,,"US, NJ,",findagrave/1032,_subject
+1895-07-14,,,findagrave/1033,_subject
+1902-01-26,,"US, NC, Madison County",findagrave/1034,_subject
+1925-02-11,,"US, NC, Guilford County",findagrave/1035,_subject
+1913-04-29,,,findagrave/1036,_subject
+1920-06-26,,,findagrave/1037,_subject
+1893-02-16,,"US, CT, Bridgeport",findagrave/1038,_subject
+1910-10-18,,,findagrave/1040,_subject
+1919-03-03,,,findagrave/1041,_subject
+1896-10-21,,,findagrave/1042,_subject
+1916,,,findagrave/1043,_subject
+1903-02-20,,,findagrave/1044,_subject
+1906-02-02,,,findagrave/1045,_subject
+1915-09-29,,"US, PA, Eckley",findagrave/1046,_subject
+1915-07-11,,,findagrave/1047,_subject
+1893-05-01,,"US, NC, Scotland County",findagrave/1049,_subject
+1917-04-09,,,findagrave/1050,_subject
+1913-04-20,,"US, NY, Rochester",findagrave/1051,_subject
+1924-03-17,,,findagrave/1052,_subject
+1914-08-15,,"US, NC, Haywood County",findagrave/1053,_subject
+1926-03-15,,"US, NC, Caldwell County",findagrave/1054,_subject
+1916-10-31,,,findagrave/1055,_subject
+1919-05-28,,,findagrave/1056,_subject
+1926,,,findagrave/1057,_subject
+1880-06-01,,"US, TN, Humboldt",findagrave/1058,_subject
+1915-03-23,,"US, OH,",findagrave/1059,_subject
+1870-09-01,,"US, PA,",findagrave/1060,_subject
+1909-07-10,,,findagrave/1061,_subject
+1891,,,findagrave/1062,_subject
+1931-09-07,,"US, AL, Valley",findagrave/1064,_subject
+1900,,,findagrave/1065,_subject
+1895-01-23,,,findagrave/1066,_subject
+1922-03-30,,,findagrave/1068,_subject
+1907,,,findagrave/1069,_subject
+1875,,,findagrave/1070,_subject
+1919-11-13,,,findagrave/1071,_subject
+1920-08-06,,"US, MA, Milford",findagrave/1072,_subject
+1888-07-12,,"US, NY,",findagrave/1073,_subject
+1887-04-30,,"US, PA, Scranton",findagrave/1074,_subject
+1894-02-17,,"US, NC, Montgomery County",findagrave/1075,_subject
+1894-08-07,,,findagrave/1076,_subject
+1895-03-09,,"US, NC,",findagrave/1077,_subject
+1885-03-31,,"US, TX, Waxahachie",findagrave/1078,_subject
+1928-05-12,,"US, MO, Clay County",findagrave/1079,_subject
+1892-04-22,,,findagrave/1080,_subject
+1886-09-10,,,findagrave/1081,_subject
+1892-11-04,,"US, PA, Harrisburg",findagrave/1082,_subject
+1894-01-03,,,findagrave/1083,_subject
+1889,,,findagrave/1084,_subject
+1947-04-02,,,findagrave/1085,_subject
+,,1882-03-31,findagrave/1086,_subject
+1936-03-14,,"US, MO, St. Joseph",findagrave/1087,_subject
+1910-10-18,,,military/1001,_subject
+1919-02-07,,,military/1002,_subject
+1916-11-16,,,military/1003,_subject
+1892-04-22,,,military/1004,_subject
+1892-11-04,,"US, PA, Harrisburg",military/1005,_subject
+1889-11-28,,"US, SC, Fairmont",ssaci/1001,_subject
+1917-04-09,,"US, MD, St. Denis",ssaci/1002,_subject
+1924-02-21,,"US, MI, Detroit",ssaci/1003,_subject
+1897-07-09,,"US, NY, Brooklyn",ssaci/1004,_subject
+1887-05-02,,"US, KY, Sunrise",ssaci/1005,_subject
+1907-12-08,,"US, PA, Lebanon",ssaci/1006,_subject
+1913-03-18,,"US, MA, Pittsfield",ssaci/1007,_subject
+1917-03-07,,,ssdi/1001,_subject
+1903-02-20,,,ssdi/1002,_subject
+1906,,,ssdi/1003,_subject
+1915-07-11,,,ssdi/1004,_subject
+1903-11-17,,,ssdi/1005,_subject
+1912-07-26,,,ssdi/1006,_subject
+1886-09-10,,,ssdi/1007,_subject
+1889-04-11,,,ssdi/1008,_subject
+1921-08-31,,,ssdi/1009,_subject
+1883-08-22,,"US, OH, Symmes Township",births/Y1883/1001,_subject
+1895-01-05,,"US, VA, Suffolk",births/Y1895/1001,_subject
+1898-07-26,,"US, MA, Groton",births/Y1898/1001,_subject
+1914-04-18,,"US, IN, Spencer County",births/Y1914/1001,_subject
+1920-08-25,,"US, IL, Chicago",births/Y1920/1001,_subject
+1886-07-20,,,burials/Y1938/1001,_subject
+1896-10-24,,,burials/Y1953/1001,_subject
+1886-07-26,,,burials/Y1956/1001,_subject
+1923-09-19,,,burials/Y1961/1001,_subject
+1924-08-17,,,burials/Y1964/1001,_subject
+1915-09-29,,,burials/Y1975/1001,_subject
+1925-03-06,,,burials/Y1976/1001,_subject
+1883-06-11,,"US, OH,",deaths/Y1911/1001,_subject
+1906-07-05,,"US, TX, Rice",deaths/Y1934/1001,_subject
+1877-05-24,,"US, PA, Philadelphia",deaths/Y1934/1002,_subject
+1880-06-01,,"US, TN, Humboldt",deaths/Y1937/1001,_subject
+,,"US, VA, King William",deaths/Y1937/1002,_subject
+1914-03-22,,"US, MO, St. Louis",deaths/Y1938/1001,_subject
+1886-05-06,,"US, PA, Sharon",deaths/Y1940/1001,_subject
+1885-01-07,,"US, MO, Atlanta",deaths/Y1940/1002,_subject
+1880-03-20,,"US, PA, Danville",deaths/Y1942/1001,_subject
+1891-03-07,,"US, PA,",deaths/Y1942/1002,_subject
+1919-03-17,,,deaths/Y1942/1003,_subject
+1890-09-09,,"US, PA, Philadelphia",deaths/Y1943/1001,_subject
+1894-02-15,,"US, PA, Wilkes-Barre",deaths/Y1944/1001,_subject
+1901-01-17,,"US, KY, Louisville",deaths/Y1944/1002,_subject
+1880-09-15,,"US, PA, Philadelphia",deaths/Y1944/1003,_subject
+1900-11-04,,"US, PA, Pottstown",deaths/Y1945/1001,_subject
+1875-10-04,,"US, PA, McSherrystown",deaths/Y1946/1001,_subject
+1871-06-23,,"US, NE, Lincoln",deaths/Y1947/1001,_subject
+1895-04-04,,,deaths/Y1947/1002,_subject
+1900-12-25,,"US, IN, Morris",deaths/Y1947/1003,_subject
+1868-11-06,,"US, KY, Louisville",deaths/Y1948/1001,_subject
+1891-05-02,,"US, KY, Sunrise",deaths/Y1949/1001,_subject
+1873-10-10,,"US, IL,",deaths/Y1950/1001,_subject
+1924-05-31,,"US, PA, Limerick",deaths/Y1951/1001,_subject
+1895-03-09,,"US, NC,",deaths/Y1951/1002,_subject
+1876-08-16,,"US, TX, Waxahachie",deaths/Y1954/1001,_subject
+1922-03-30,,"US, VA, Isle of Wight County",deaths/Y1954/1002,_subject
+1907-12-08,,"US, PA, Lebanon",deaths/Y1956/1001,_subject
+1869-12-12,,"US, PA, Danville",deaths/Y1958/1001,_subject
+1873-02-13,,"US, PA, Llewellyn",deaths/Y1959/1001,_subject
+1889-03-30,,"US, IN, Wadena",deaths/Y1960/1001,_subject
+1916-11-09,,"US, AR, Lexa",deaths/Y1960/1002,_subject
+1917-10-23,,"US, TX,",deaths/Y1961/1001,_subject
+1901-09-11,,"US, KY, Kuttawa",deaths/Y1961/1002,_subject
+1896-10-21,,"US, MO, St. Louis",deaths/Y1962/1001,_subject
+1919-02-07,,"US, IN,",deaths/Y1962/1002,_subject
+1886-12-24,,"US, TX, Navarro County",deaths/Y1963/1001,_subject
+1914-04-18,,"US, IN,",deaths/Y1963/1002,_subject
+1923-05-24,,"US, PA,",deaths/Y1963/1003,_subject
+1887-09-10,,"US, IN,",deaths/Y1963/1004,_subject
+1892-02-12,,"US, AR,",deaths/Y1964/1001,_subject
+1932-02-14,,"US, MI,",deaths/Y1967/1001,_subject
+1894-01-03,,"US, NC, Alamance County",deaths/Y1967/1002,_subject
+1899-02-23,,"US, TX, Navarro",deaths/Y1971/1001,_subject
+1916-04-22,,"US, SC,",deaths/Y1971/1002,_subject
+1888-07-12,,"US, NY,",deaths/Y1973/1001,_subject
+1915-11-04,,,deaths/Y1974/1001,_subject
+1915-11-16,,"US, VT,",deaths/Y1975/1001,_subject
+1912-02-01,,"US, CA",deaths/Y1981/1001,_subject
+,1935-04-22,,deaths/Y1988/1001,_subject

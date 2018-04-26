@@ -1,0 +1,18 @@
+key-findagrave: 65450826
+ 
+name-last: Childers
+name-first: John
+name-given: John G.
+ 
+birth-date: 1926-03-15
+birth-place: US, NC, Caldwell County
+ 
+death-date: 1984-03-23
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: McDowell Memorial Park
+cemetery-place: US, NC, East Marion
+

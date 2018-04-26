@@ -1,0 +1,9 @@
+source-title: Herman Fishman SSDI
+source-file-name: Herman Fishman SSDI.png
+source-file-type: application/pdf
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-17
+

@@ -1,0 +1,15 @@
+name-last: Bazan
+name-first: Stanley
+name-given: Stanley Richard
+ 
+birth-date: 1919-02-07
+ 
+death-date: 1962-08-19
+ 
+military-country: US
+military-branch: Marines
+military-conflict:  World War II from #1943-08-25 to 1946-01-02
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, IL, Calumet City
+

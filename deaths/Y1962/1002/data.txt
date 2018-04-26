@@ -1,0 +1,16 @@
+name-last: Bazan
+name-first: Stanley
+name-given: Stanley R.
+ 
+birth-date: 1919-02-07
+birth-place: US, IN,
+ 
+death-date: 1962-08-19
+death-place:  US, IN, East Chicago
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Holy Cross Cemetery
+cemetery-place: US, IL, Calumet City
+

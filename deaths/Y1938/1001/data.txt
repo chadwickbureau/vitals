@@ -1,0 +1,13 @@
+name-last: Poss
+name-first: Elmer
+name-given: Elmer
+ 
+birth-date: 1914-03-22
+birth-place: US, MO, St. Louis
+ 
+death-date: 1938-06-05
+death-place:  US, IL, Caseyville Township
+ 
+cemetery-name: College Hill Cemetery
+cemetery-place: US, IL, Lebanon
+

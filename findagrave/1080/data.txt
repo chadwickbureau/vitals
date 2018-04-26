@@ -1,0 +1,16 @@
+key-findagrave: 3904691
+ 
+name-last: Kennedy
+name-first: Elwin
+name-given: Elwin H.
+ 
+birth-date: 1892-04-22
+ 
+death-date: 1961-05-12
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War I
+
+cemetery-name: Willamette National Cemetery
+cemetery-place: US, OR, Portland

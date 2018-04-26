@@ -1,0 +1,15 @@
+key-findagrave: 179623272
+ 
+name-last: Wagnon
+name-first: John
+name-given: John Alva
+name-suffix: Sr.
+ 
+birth-place: 1882-03-31
+ 
+death-date: 1966-02-01
+death-place:  US, GA, Sumter County
+ 
+cemetery-name: Oak Grove Cemetery
+cemetery-place: US, GA, Americus
+

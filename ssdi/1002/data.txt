@@ -1,0 +1,9 @@
+key-ssn: 275-05-3083
+ 
+name-last: Bloebaum
+name-first: Edward
+ 
+birth-date: 1903-02-20
+ 
+death-date: 1973-01
+

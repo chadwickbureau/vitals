@@ -1,0 +1,15 @@
+name-last: Briganti
+name-first: Louis
+name-given: Louis Nicholas
+ 
+birth-date: 1916-11-16
+ 
+death-date: 1962-11-12
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1941-03-25 to 1945-08-10
+ 
+cemetery-name: St. Mary’s Cemetery
+cemetery-place: US, NY, Fremont
+

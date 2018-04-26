@@ -1,0 +1,18 @@
+key-findagrave: 88780751
+ 
+name-last: Alexander
+name-first: Jack
+name-given: Jack
+ 
+birth-date: 1914-08-15
+birth-place: US, NC, Haywood County
+ 
+death-date: 1984-02-13
+death-place:  US, NC, Brevard
+ 
+military-country: US
+military-branch:  Navy
+ 
+cemetery-name: Blue Ridge Gardens of Memory Cemetery
+cemetery-place: US, NC, Pisgah Forest
+

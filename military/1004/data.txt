@@ -1,0 +1,16 @@
+name-last: Kennedy
+name-first: Elwin
+name-given: Elwin Hugh
+ 
+birth-date: 1892-04-22
+ 
+death-date: 1961-05-12
+death-place: US, OR, Portland
+ 
+military-country: US
+military-branch:  Navy
+military-conflict:  World War I #from 1917-12-07 to 1919-06-26
+ 
+cemetery-name: Williamette National Cemetery
+cemetery-place: US, OR, Portland
+

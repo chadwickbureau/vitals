@@ -1,0 +1,8 @@
+source-title: Find a Grave page for Louis Brigati
+source-date: 2017-12-12
+source-url: https://www.findagrave.com/memorial/135582862
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-12

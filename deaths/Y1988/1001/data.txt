@@ -1,0 +1,9 @@
+name-last: Chadner
+name-first: Dick
+name-given: Richard Thomas
+name-suffix: Jr.
+ 
+birth-pdate: 1935-04-22
+ 
+death-date: 1988-08-13
+

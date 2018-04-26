@@ -1,0 +1,13 @@
+key-findagrave: 136293644
+ 
+name-last: Graeff
+name-first: Scoop
+name-given: Reginald H.
+ 
+birth-date: 1907
+ 
+death-date: 1956
+ 
+cemetery-name: Charles Evans Cemetery
+cemetery-place: US, PA, Reading
+

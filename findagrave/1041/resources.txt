@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Donald Staley
+source-date: 2017-12-04
+source-url: https://www.findagrave.com/memorial/81009635
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-04

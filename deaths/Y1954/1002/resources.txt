@@ -1,0 +1,9 @@
+source-title: Linwood Howell VA DC
+source-file-name: Linwood Howell VA DC.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-27
+

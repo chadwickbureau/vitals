@@ -1,0 +1,10 @@
+name-last: Downey
+name-first: Lloyd
+name-given: Lloyd Earl
+ 
+birth-date: 1887-09-10
+birth-place: US, IN,
+ 
+death-date: 1963-06-04
+death-place:  US, IN, Martinsville
+

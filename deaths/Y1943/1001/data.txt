@@ -1,0 +1,13 @@
+name-last: Zibell
+name-first: George
+name-given: George W.
+ 
+birth-date: 1890-09-09
+birth-place: US, PA, Philadelphia
+ 
+death-date: 1943-10-19
+death-place:  US, PA, Philadelphia
+ 
+cemetery-name: Hillside Cemetery
+cemetery-place: US, PA, Roslyn
+

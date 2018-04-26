@@ -1,0 +1,19 @@
+key-findagrave:  136380817
+ 
+name-last: Beaird
+name-first: Richard
+name-given: Richard A.
+name-nick: Breezy
+ 
+birth-date: 1931-09-07
+birth-place: US, AL, Valley
+ 
+death-date: 2002-01-16
+death-place:  US, AL, Valley
+ 
+military-country: US
+military-branch:  Air Force
+ 
+cemetery-name: Fairfax Cemetery
+cemetery-place: US, AL, Valley
+

@@ -1,0 +1,24 @@
+key-findagrave: 65821825
+
+name-last: Fenton
+name-first: Doc
+name-given: George Ellwood
+ 
+birth-date: 1887-04-30
+birth-place: US, PA, Scranton
+ 
+death-date: 1968-02-08
+death-place:  US, LA, Baton Rouge
+ 
+school-level: secondary
+school-name:  Scranton HS
+school-place: US, PA, Scranton
+ 
+school-level: college
+school-name: Louisiana State University
+ 
+school-level: college
+school-name: Mansfield University of Pennsylvania
+ 
+cemetery-name: Roselawn Memorial Park and Mausoleum
+cemetery-place: US, LA, Baton Rouge

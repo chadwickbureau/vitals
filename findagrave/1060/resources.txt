@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Frank Southard
+source-date: 2018-01-05
+source-url: https://www.findagrave.com/memorial/136882271
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-05

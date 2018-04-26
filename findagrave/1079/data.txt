@@ -1,0 +1,15 @@
+key-findagrave: 166187939
+ 
+name-last: Goodpasture
+name-first: Lee
+name-given: Lee Allen
+ 
+birth-date: 1928-05-12
+birth-place: US, MO, Clay County
+ 
+death-date: 2007-03-11
+death-place:  US, MO, Plattsburg
+ 
+cemetery-name: Greenlawn Cemetery
+cemetery-place: US, MO, Plattsburg
+

@@ -1,0 +1,51 @@
+branch,conflict,country,source,person
+,World War II from # 1943-12-15 to 1946-03-01,US,birls/1001,_subject
+Navy,World War II from # 1943-10-07 to 1946-04-25,US,birls/1002,_subject
+,World War I from #1918-06-25 to 1919-07-15,US,birls/1003,_subject
+,World War II from #1942-08-06 to 1945-11-28,US,birls/1004,_subject
+Army,World War II #from 1943-01-04 to 1945-12-13,US,birls/1005,_subject
+Army,World War II from #1944-07-27 to 1946-06-20,US,birls/1006,_subject
+Army,World War II from #1942-10-15 to 1945-11-09,US,birls/1007,_subject
+Army,World War II from #1943-05-26 to 1946-01-11,US,birls/1008,_subject
+Army,World War II from #1945-07-17 to 1946-08-09,US,birls/1009,_subject
+Army,World War II from #1943-09-13 to 1945-12-28,US,birls/1010,_subject
+Army,World War II from #1943-05-24 to 1946-01-08,US,birls/1011,_subject
+Marines,World War II from #1944-02-16 to 1946-08-15,US,birls/1012,_subject
+Army,World War I from #1918-01-12 to 1918-07-04,US,birls/1013,_subject
+Army,World War I,US,findagrave/1002,_subject
+Army,World War I,US,findagrave/1004,_subject
+Army,World War II,US,findagrave/1013,_subject
+Air Force,Korean War,US,findagrave/1014,_subject
+Army,Korean War,US,findagrave/1017,_subject
+Navy,,US,findagrave/1023,_subject
+Navy,Korean War,US,findagrave/1024,_subject
+Navy,World War II,US,findagrave/1028,_subject
+Army,World War I,US,findagrave/1030,_subject
+Army,World War II,US,findagrave/1031,_subject
+Army,World War II,US,findagrave/1046,_subject
+Army,World War II,US,findagrave/1052,_subject
+Navy,,US,findagrave/1053,_subject
+Army,World War II,US,findagrave/1054,_subject
+Navy,World War II,US,findagrave/1056,_subject
+Army,World War II,US,findagrave/1059,_subject
+Air Force,,US,findagrave/1064,_subject
+Army,World War II,US,findagrave/1072,_subject
+Navy,World War I,US,findagrave/1080,_subject
+Army,Vietnam War,US,findagrave/1085,_subject
+Navy,World War II from #1943-08-05 to 1946-04-15,US,military/1001,_subject
+Marines,World War II from #1943-08-25 to 1946-01-02,US,military/1002,_subject
+Army,World War II from #1941-03-25 to 1945-08-10,US,military/1003,_subject
+Navy,World War I #from 1917-12-07 to 1919-06-26,US,military/1004,_subject
+Navy,World War I #from 1918-07-18 to 1919-03-21,US,military/1005,_subject
+Navy,World War I # from 1918-06-20 to 1921-09-30,US,burials/Y1938/1001,_subject
+Army,World War I from # 1917-10-13 to 1919-06-30,US,burials/Y1953/1001,_subject
+Army,World War I from #1918-03-28 to 1919-01-20,US,burials/Y1956/1001,_subject
+Army,World War II from #1943-08-26 to 1944-06-09,US,burials/Y1961/1001,_subject
+Army,World War II from #1943-03-25 to 1946-03-23,US,burials/Y1964/1001,_subject
+Army,World War II from #1942-10-28 to 1946-08-30,US,burials/Y1975/1001,_subject
+Navy,World War II,US,burials/Y1976/1001,_subject
+Navy,World War I,US,deaths/Y1947/1002,_subject
+,World War II,US,deaths/Y1947/1003,_subject
+,World War I,US,deaths/Y1962/1001,_subject
+,World War II,US,deaths/Y1962/1002,_subject
+,World War II,US,deaths/Y1975/1001,_subject

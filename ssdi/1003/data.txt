@@ -1,0 +1,10 @@
+key-ssn: 048075318
+ 
+name-last: Beagle
+name-first: Harold
+name-given: Harold
+ 
+birth-date: 1906
+ 
+death-date: 1974-02
+

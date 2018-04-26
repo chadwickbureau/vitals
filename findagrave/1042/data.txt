@@ -1,0 +1,13 @@
+key-findagrave: 33208433
+ 
+name-last: Corrigan
+name-first: Yatz
+name-given: George Percival
+ 
+birth-date: 1896-10-21
+ 
+death-date: 1962-05-13
+ 
+cemetery-name: Sts. Peter & Paul Catholic Cemetery (old)
+cemetery-place: US, MO, St. Louis
+

@@ -1,0 +1,9 @@
+source-title: Spec Kennedy WWI card
+source-file-name: Spec Kennedy WWI card.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-03-07
+

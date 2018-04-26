@@ -1,0 +1,9 @@
+source-title: Donald Seasholtz WWII draft card
+source-file-name: Donald Seasholtz WWII draft card.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-19
+

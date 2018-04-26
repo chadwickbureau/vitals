@@ -1,0 +1,11 @@
+key-ssn: 381129312
+ 
+name-last: Husse
+name-first: Anthony
+name-given: Anthony Alfred
+ 
+birth-date: 1924-02-21
+birth-place: US, MI, Detroit
+ 
+death-date: 1984-05-15
+

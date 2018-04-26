@@ -1,0 +1,12 @@
+name-last: O’Hara
+name-first: Joseph
+name-given: Joseph
+ 
+birth-date: 1919-03-17
+ 
+death-date: 1942-11-26
+death-place:  US, PA, Philadelphia
+ 
+cemetery-name: Holy Sepulchre Cemetery
+cemetery-place: US, PA, Cheltenham
+

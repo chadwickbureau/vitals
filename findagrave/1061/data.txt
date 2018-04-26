@@ -1,0 +1,13 @@
+key-findagrave: 86285780
+ 
+name-last: Gwathmey
+name-first: William
+name-given: William
+ 
+birth-date: 1909-07-10
+ 
+death-date: 1937-08-21
+ 
+cemetery-name: Burlington Plantation
+cemetery-place: US, VA, King William County
+

@@ -1,0 +1,13 @@
+key-findagrave: 101485626
+ 
+name-last: Ratliff
+name-first: Carlos
+name-given: Carlos C.
+ 
+birth-date: 1910-10-18
+ 
+death-date: 1961-10-03
+ 
+cemetery-name: Weston Masonic Cemetery
+cemetery-place: US, WV, Weston
+ 

@@ -1,0 +1,15 @@
+key-findagrave: 136882271
+ 
+name-last: Southard
+name-first: Frank
+name-given: Frank
+ 
+birth-date: 1870-09-01
+birth-place: US, PA,
+ 
+death-date: 1935-06-10
+death-place:  US, PA, Lackawanna County
+ 
+cemetery-name: Forest Hill Cemetery
+cemetery-place: US, PA, Dunmore
+

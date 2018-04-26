@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Linwood Howell
+source-date: 2018-01-27
+source-url: https://www.findagrave.com/memorial/102055670
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-01-27

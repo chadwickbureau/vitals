@@ -1,0 +1,11 @@
+key-ssn: 405183177
+ 
+name-last: Vallandingham
+name-first: Charles
+name-given: Charles
+ 
+birth-date: 1887-05-02
+birth-place: US, KY, Sunrise
+ 
+death-date: 1949-04-29
+

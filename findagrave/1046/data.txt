@@ -1,0 +1,19 @@
+key-findagrave: 171005221
+ 
+name-last: Surgent
+name-first: Michael
+name-given: Michael G.
+ 
+birth-date: 1915-09-29
+birth-place: US, PA, Eckley
+ 
+death-date: 1975-08-10
+death-place: US, PA, Luzerne County
+ 
+military-country: US
+military-branch:  Army
+military-conflict:  World War II
+ 
+cemetery-name: St. Mary’s Byzantine Catholic Cemetery
+cemetery-place: US, PA, Freeland
+

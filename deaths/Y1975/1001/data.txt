@@ -1,0 +1,18 @@
+key-ssn: 001054948
+ 
+name-last: Fenno
+name-first: Roswell
+name-given: Roswell V.
+ 
+birth-date: 1915-11-16
+birth-place: US, VT,
+ 
+death-date: 1975-08-07
+death-place:  US, VT, Berlin
+ 
+military-country: US
+military-conflict:  World War II
+ 
+cemetery-name: Green Mount Cemetery
+cemetery-place: US, VT, Montpelier
+

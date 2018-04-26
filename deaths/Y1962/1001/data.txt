@@ -1,0 +1,18 @@
+key-ssn: 488107372
+ 
+name-last: Corrigan
+name-first: George
+name-given: George P.
+ 
+birth-date: 1896-10-21
+birth-place: US, MO, St. Louis
+ 
+death-date: 1962-05-13
+death-place: US, MO, St. Louis
+ 
+military-country: US
+military-conflict:  World War I
+ 
+cemetery-name: Sts. Peter & Paul Catholic Cemetery (old)
+cemetery-place: US, MO, St. Louis
+

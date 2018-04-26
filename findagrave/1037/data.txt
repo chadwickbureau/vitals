@@ -1,0 +1,14 @@
+key-findagrave: 122161797
+ 
+name-last: Haney
+name-first: Jay
+name-given: James Lemial
+ 
+birth-date: 1920-06-26
+ 
+death-date: 1982-03-03
+ 
+meta-bats: Right
+ 
+cemetery-name: Lamesa Memorial Park
+cemetery-place: US, TX, Lamesa

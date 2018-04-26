@@ -1,0 +1,8 @@
+source-title: Billy Armitage death certificate
+source-file-name: 45232_354186-00961.jpg
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-11-27

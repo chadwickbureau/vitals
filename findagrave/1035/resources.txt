@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Jack Blaylock
+source-date: 2017-08-06
+source-url: https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=166299919&ref=acom
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-08-06

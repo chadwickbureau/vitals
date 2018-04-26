@@ -1,0 +1,8 @@
+source-title: Find A Grave page for Donny Tidwell
+source-date: 2018-04-02
+source-url: https://www.findagrave.com/memorial/5438818/donny-gay-tidwell
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2018-04-02

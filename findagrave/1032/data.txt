@@ -1,0 +1,15 @@
+key-findagrave: 94510166
+
+name-last: Boelzle
+name-first: George
+name-given: George W.
+ 
+birth-date: 1889-02-08
+birth-place: US, NJ,
+ 
+death-date: 1975-03-25
+death-place:  US, CA, Orange County
+ 
+cemetery-name: Forest Lawn Memorial Park
+cemetery-place: US, CA, Cypress
+ 

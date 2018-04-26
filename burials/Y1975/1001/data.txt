@@ -1,0 +1,15 @@
+name-last: Surgent
+name-first: Michael
+name-given: Michael G.
+ 
+birth-date: 1915-09-29
+ 
+death-date: 1975-08-10
+
+military-country: US
+military-branch:  Army
+military-conflict:  World War II from #1942-10-28 to 1946-08-30
+ 
+cemetery-name: St. Mary’s Byzantine Catholic Cemetery
+cemetery-place: US, PA, Freeland
+

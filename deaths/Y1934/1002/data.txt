@@ -1,0 +1,13 @@
+name-last: Daniels
+name-first: John
+name-given: John M.
+ 
+birth-date: 1877-05-24
+birth-place:  US, PA, Philadelphia
+ 
+death-date: 1934-08-26
+death-place:  US, PA, Philadelphia
+ 
+cemetery-name: Mt. Moriah Cemetery
+cemetery-place: US, PA, Philadelphia
+

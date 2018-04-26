@@ -1,0 +1,11 @@
+name-last: Anderssohn
+name-first: Henry
+ 
+birth-date: 1925-12-06
+ 
+death-date: 2005-05-21
+ 
+military-country: US
+military-branch:  Marines
+military-conflict:  World War II from #1944-02-16 to 1946-08-15
+

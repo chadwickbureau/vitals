@@ -1,0 +1,7 @@
+name-last: Yoder
+name-first: Paul
+name-given: Paul Allison
+ 
+birth-date: 1895-03-09
+birth-place: US, NC, Hickory
+

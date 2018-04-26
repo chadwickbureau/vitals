@@ -1,0 +1,13 @@
+key-findagrave: 134821240
+ 
+name-last: Alden
+name-first: Raymond
+name-given: Raymond Clinton
+name-suffix: Sr.
+ 
+birth-date: 1913-04-29
+ 
+death-date: 1985-01-26
+ 
+cemetery-name: Prairie View Cemetery
+cemetery-place: US, IA, Gilman

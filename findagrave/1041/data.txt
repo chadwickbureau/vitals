@@ -1,0 +1,9 @@
+key-findagrave: 81009635
+ 
+name-last: Staley
+name-first: Donald
+name-given: Donald S.
+ 
+birth-date: 1919-03-03
+ 
+death-date: 1970-07-29

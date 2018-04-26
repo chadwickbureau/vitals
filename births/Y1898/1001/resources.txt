@@ -1,0 +1,9 @@
+source-title: Clayton Sheedy MA Birth Record
+source-file-name: Clayton Sheedy Birth Record.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-17
+

@@ -1,0 +1,15 @@
+key-findagrave: 79388321
+ 
+name-last: Russell
+name-first: Oscar
+name-given: Oscar Velie
+ 
+birth-date: 1894-02-17
+birth-place: US, NC, Montgomery County
+ 
+death-date: 1955-06-05
+death-place:  US, NC, Montgomery County
+ 
+cemetery-name: Southside Cemetery
+cemetery-place: US, NC, Troy
+

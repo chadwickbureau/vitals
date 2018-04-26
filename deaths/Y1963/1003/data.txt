@@ -1,0 +1,15 @@
+key-ssn: 202164954
+ 
+name-last: Sobota
+name-first: Anthony
+name-given: Anthony J.
+ 
+birth-date: 1923-05-24
+birth-place: US, PA,
+ 
+death-date: 1963-01-05
+death-place:  US, PA, Palmerton
+ 
+cemetery-name: Sacred Heart Roman Catholic Cemetery
+cemetery-place: US, PA, Palmerton
+

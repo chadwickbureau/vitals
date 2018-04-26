@@ -1,0 +1,9 @@
+source-title: Anthony Husse SSACI
+source-file-name: Anthony Husse SSACI.png
+source-file-type: application/png
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-12-29
+

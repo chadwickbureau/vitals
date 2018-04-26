@@ -1,0 +1,13 @@
+key-findagrave: 152601783
+ 
+name-last: Wells
+name-first: Aubie
+name-given: Aubie B.
+ 
+birth-date: 1894-08-07
+ 
+death-date: 1973-01-09
+ 
+cemetery-name: Greenwood Cemetery
+cemetery-place: US, AL, Montgomery
+

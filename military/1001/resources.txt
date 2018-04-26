@@ -1,0 +1,8 @@
+source-title: Ratliff military marker request
+source-file-name: Ratliff military marker request.jog
+source-file-type: application/jpg
+ 
+contributor-last: Morris
+contributor-first: Jack
+contributor-email: jackmo77@comcast.net
+contributor-date: 2017-11-29
